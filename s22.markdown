@@ -109,12 +109,13 @@ Decentralized trust is a rapidly growing area of research that spans application
 In this seminar class, our goal is to provide a framework for students to understand this new space of systems, both from a technology and a policy perspective, and become familiar with open research challenges in the area. We aim to provide students with the tools to analyze new decentralized systems, critically consider potential security flaws, and understand how external factors (such as data ownership policies) can influence system design. 
 
 The course will consist of invited talks by a range of experts in the area and related discussions. We will cover a variety of topics and current open research challenges, including:
-The basics of decentralized systems, including common challenges in achieving transparency and auditability in scalable, usable systems
-Why provable guarantees are useful and how to achieve them, from cryptography to verification to fault-based guarantees
-Data privacy in decentralized settings
-Decentralized finance, including blockchains and smart contracts
-Decentralized data science, including analytics, databases, and machine learning (?)
-Economic factors, such as incentive compatibility and systemic risk calculation (?) 
-Policy factors, such as how to define data ownership 
-Security issues specific to decentralized systems, including real-world attacks
-
+<ul>
+  <li>The basics of decentralized systems, including common challenges in achieving transparency and auditability in scalable, usable systems</li>
+  <li>Why provable guarantees are useful and how to achieve them, from cryptography to verification to fault-based guarantees</li>
+  <li>Data privacy in decentralized settings</li>
+  <li>Decentralized finance, including blockchains and smart contracts</li>
+  <li>Decentralized data science, including analytics, databases, and machine learning (?)</li>
+  <li>Economic factors, such as incentive compatibility and systemic risk calculation (?)</li> 
+  <li>Policy factors, such as how to define data ownership</li>
+  <li>Security issues specific to decentralized systems, including real-world attacks</li>
+</ul>
