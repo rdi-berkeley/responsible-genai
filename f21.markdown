@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Decentralized Finance"
+title: "Decentralized Systems"
 permalink: /f21
 redirect_from:
   - /
 ---
 
-<!-- # Decentralized Finance -->
+<!-- # Decentralized Systems -->
 
-# CS294-177/CS194-177/PHDBA 297T.1/MFE 230T.3: Decentralized Finance
+# Course Number: Decentralized Systems
 
 - [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/7861/discussion/) and [discord](https://discord.gg/3yFqmRjZDA). 
@@ -46,10 +46,10 @@ redirect_from:
 
 ## TAs
 
-Vivek Nair; Nate Pola; Neil Giridharan; Xiaoyuan Liu
+Samyu Yagati
 
 ## Class Time
-Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures
+Lecture: 3:30-5:30 Thurs. (Hybrid), starting TODO
 
 ## Office Hour
 All times are in PST. There will be no office hours until the week of September 6th.
@@ -92,15 +92,9 @@ The class will have short written homework and hands-on labs. Weekly quizzes wil
 | Project milestone | 15% |
 | Project presentation and final report | 40% |
 
-### Quiz
+### Project
 
-All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Wednesday. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice and there are usually at most 5 per quiz.
-
-### Group project
-
-Students will be completing an open-ended research project culminating in a presentation and a workshop-style paper submitted at the end of the semester. You will choose an area of research in DeFi that you wish to explore and are encouraged to read related papers in that area. You will then identify an area that you believe needs improvement or merits further research and build systems and/or conduct experiments to further the state of the art within your chosen field. Students are welcome to choose their own topics, but we'll also provide a list of topic suggestions that you can take inspiration from if you wish.
-
-The proposal should be submitted through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdnyIUra41NGD5RD9JfKApMIzJrHhwLi45cO2itZX17_zhVJw/viewform). The final report should be within **6 page** with additional appendix and references as needed (and total max 10 pages). For project presentation, each group needs to record a **3-min video** to summarize the results and findings of the project and need to submit the video (in mp4 format) and slides (in pdf format).
+TODO
 
 ### Timeline
 
@@ -114,20 +108,22 @@ The proposal should be submitted through [this google form](https://docs.google.
 | Project presentation | 12/02 |
 | Project final report | 12/13 |
 
+## Credits
+1 unit just attending the class; 2 units for doing a class project with a report; 3 units for doing a class project with significant implementation and report
+
 ## Course Description
 
-The purpose of this class is to bring together students and interdisciplinary experts in Computer Science and Finance to discuss the emerging area of Decentralized Finance (or DeFi). DeFi has experienced an unprecedented growth, with hundreds of projects and a countless stream of financial, distributed systems, and blockchain innovations. The total value locked (TVL) in decentralized finance — a measure of the total value of assets committed to the DeFi ecosystem — has reached over $80 billion. When compared to the traditional centralized finance (CeFi), DeFi offers products and services serving similar financial goals, but critically innovates with novel capabilities such as instantaneous multi-billion USD flash loans. By utilizing blockchain and smart contract technologies, DeFi as a whole aims to provide a new platform for programmable, automated finance services that remove the reliance on central trust and intermediaries.
- 
-Our goal is to provide a framework to understand this new area of financial services. For each finance function, we will consider 1) the current intermediated structure, and then b) the DeFi version (actual or proposed) that fulfills the function. Is either one of these optimal? We will evaluate both through the lens of CS and finance. Is the application computable (efficiency, decidable), programmable (automatic)? Is the application welfare-enhancing and stable (not a source of systemic risk). How do the new and old systems interact? We aim for the students to be able to critically evaluate whether a new DeFi protocol is novel and practical. We further will capture the security danger in DeFi, as well as their impact on the underlying consensus security. Lastly, we hope to give an insight into how to program and structure secure and incentive-compatible DeFi applications.
- 
-Through the exposure to cutting-edge research as well as remaining open challenges, we hope for our students to quickly integrate into academic as well as industrial projects related to DeFi.
- 
-Summarizing, we will cover a broad spectrum of topics, including:
+Decentralized trust is a rapidly growing area of research that spans applications from blockchains to federated learning. Compared to traditional centralized trust, this model can provide stronger security guarantees, better open access to the system, and more transparency. It can enable users to have more control over their own data and support more flexible data sharing. Decentralized systems, such as blockchains or decentralized analytics-enabled databases, enable decentralized trust.
 
-1. A comprehensive introduction covering a computer science and finance background required for the remainder of the course. We will discuss the basics of decentralized systems, permissionless blockchains, consensus, smart contracts and contrast DeFi to traditional finance.
+In this seminar class, our goal is to provide a framework for students to understand this new space of systems, both from a technology and a policy perspective, and become familiar with open research challenges in the area. We aim to provide students with the tools to analyze new decentralized systems, critically consider potential security flaws, and understand how external factors (such as data ownership policies) can influence system design. 
 
-2. We will cover the computer science and economic aspects of DeFi assets, and how they link to CeFi through stablecoins. The course will elaborate on DeFi asset exchanges and contrast the traditional limit order book models to automated market makers. Just like in CeFi, debt and derivatives play a fundamental role in DeFi. We’ll dive into the various debt models, such as under- and over-collateralized debt, as well as synthetic assets in DeFi. Insurances, portfolio management and prediction markets form equally crucial elements to a decentralised economy as we will elaborate on. Last but not least, we will show different attempts at measuring and tracking systemic risk and its computability.
+The course will consist of invited talks by a range of experts in the area and related discussions. We will cover a variety of topics and current open research challenges, including:
+The basics of decentralized systems, including common challenges in achieving transparency and auditability in scalable, usable systems
+Why provable guarantees are useful and how to achieve them, from cryptography to verification to fault-based guarantees
+Data privacy in decentralized settings
+Decentralized finance, including blockchains and smart contracts
+Decentralized data science, including analytics, databases, and machine learning (?)
+Economic factors, such as incentive compatibility and systemic risk calculation (?) 
+Policy factors, such as how to define data ownership 
+Security issues specific to decentralized systems, including real-world attacks
 
-3. To link blockchains with financial information from the real-world, we will provide a deep-dive into oracles. We will discuss decentralized reputation, identities and proof of properties. Because most DeFi is transparently readable, including transaction amounts, fees, dates/times, etc, privacy plays an increasingly important role in DeFi. We will cover various privacy technologies including zero-knowledge proofs and their applications in DeFi. We will also discuss various attempts at how to enforce data ownership, data monetization and valuation as well as controlled use and misuse of data.
-
-4. A digital economy would not thrive without strong security. We will outline the many past security attacks, introspect a few of them in closer detail and provide recommendations on how to strengthen DeFi security. We will discuss the systemic risks stemming from Miner Extractable Value (MEV) and how MEV can be minimized by design. Decentralized governance provides power to a pseudonymous collective, and we will explore how governance works, and how it may be attacked.
