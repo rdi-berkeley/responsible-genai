@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Decentralized Systems"
-permalink: /f21
+permalink: /s22
 redirect_from:
   - /
 ---
@@ -24,6 +24,10 @@ redirect_from:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
+      <td><a href="https://nacrooks.github.io/">Natacha Crooks</a></td>
+    </tr>
     <tr>
       <td>UC Berkeley</td>
       <td>UC Berkeley</td>
@@ -51,7 +55,7 @@ For graduate students, please register for CS294-177; for undergraduate students
 
 ## Syllabus (subject to change)
 
-<iframe id="syllabus" src="/f21_syllabus" width="100%" height="100" frameborder=0> </iframe>
+<iframe id="syllabus" src="/s22_syllabus" width="100%" height="100" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {
