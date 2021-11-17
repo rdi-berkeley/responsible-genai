@@ -22,7 +22,7 @@ Our goal is to provide a framework for students to understand this new space of 
 The course will consist of invited talks by a range of experts and related discussions. We will cover a variety of topics and current open research challenges and state-of-the-art techniques in a wide spectrum of areas, including:
 
 <ul>
-  <li>Foundations for next generation decentralization technologies: scalability, usability, provable guarantees, auditable privacy, etc.
+  <li>Foundations for next generation decentralization technologies: scalability, usability, provable guarantees, auditable privacy, etc.</li>
   <li>Cryptoeconomics and mechanisms design for decentralized systems </li> 
   <li>Decentralized data science</li> 
   <li>Decentralized Finance and Central Bank Digital Currency (CBDC) </li> 
