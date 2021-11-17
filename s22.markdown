@@ -8,12 +8,12 @@ redirect_from:
 
 <!-- # Decentralized Systems -->
 
-# Course Number: Decentralized Systems (Website development in progress)
-
-- [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
+# CS294-XXX:  Special Topics on Science and Technology of Decentralization and Decentralized Intelligence
+<!--- [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/7861/discussion/) and [discord](https://discord.gg/3yFqmRjZDA). 
 - <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span>
-
+-->
+- Zoom link (TBA)
 ## Instructors
 
 <table style="table-layout: fixed; font-size: 88%; align: middle;">
@@ -43,18 +43,24 @@ Samyu Yagati
 Lecture: 3:30-5:30 Thurs. (Hybrid), starting TODO
 
 ## Office Hour
-All times are in PST. There will be no office hours until the week of September 6th.
+All times are in PST.
+ 
+| Samyu Yagati (TA/GSI) | TBA | Link to be added |
+| Dawn Song (Professor) | TBA | Link to be added |
+| Natacha Crooks (Professor) | TBA | Link to be added |
 
-| Vivek Nair (Head TA/GSI) | 12:30pm-01:30pm Tue | [Zoom link](https://berkeley.zoom.us/j/5176419216) |
-| Dawn Song (Professor) | 05:00pm-05:30pm Wed | [Zoom link](https://berkeley.zoom.us/j/93029293682?pwd%3DOVBybGhMYVBCTEJUelNyRm5SdHZuZz09&sa=D&source=calendar&usg=AOvVaw1DYoPVsE2MYIbUQwxzojdD) (ID: 93029293682, Passcode: 5q47hS3N) |
+<!--| Dawn Song (Professor) | 05:00pm-05:30pm Wed | [Zoom link](https://berkeley.zoom.us/j/93029293682?pwd%3DOVBybGhMYVBCTEJUelNyRm5SdHZuZz09&sa=D&source=calendar&usg=AOvVaw1DYoPVsE2MYIbUQwxzojdD) (ID: 93029293682, Passcode: 5q47hS3N) |
 | Xiaoyuan Liu (TA/GSI) | 12:30pm-01:30pm Thu | [Zoom link](https://berkeley.zoom.us/j/94026140944?pwd=blcxeE5DZmNHWWdDN0RxS2RpdEQvdz09) |
 | Neil Giridharan (TA/GSI) | 03:00pm-04:00pm Fri | [Zoom link](https://berkeley.zoom.us/j/5432961734) |
-
+-->
 ## Enrollment and Participation
-For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177. Please join our [edstem](https://edstem.org/us/courses/7861/discussion/).
+1 unit just attending the class; 2 units for doing a class project with a report; 3 units for doing a class project with significant implementation and report.
 
+<!--For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177. Please join our [edstem](https://edstem.org/us/courses/7861/discussion/).
+-->
 ## Syllabus (subject to change)
-
+TBA
+<!--
 <iframe id="syllabus" src="/s22_syllabus" width="100%" height="100" frameborder=0> </iframe>
 
 <script>
@@ -71,9 +77,11 @@ For graduate students, please register for CS294-177; for undergraduate students
       setIframeHeight(document.getElementById('syllabus'));
   };
 </script>
+-->
 
 ## Grading
-The class will have short written homework and hands-on labs. Weekly quizzes will all be of equal weight (graded on completion), and will count for 10% of your overall grade. In addition, each student will participate in a group project **(group size: 3-5 students)** of choice aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi. 
+TBA
+<!--The class will have short written homework and hands-on labs. Weekly quizzes will all be of equal weight (graded on completion), and will count for 10% of your overall grade. In addition, each student will participate in a group project **(group size: 3-5 students)** of choice aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi. 
 
 | Class participation | 10% |
 | Weekly Quizzes | 10% |
@@ -82,13 +90,14 @@ The class will have short written homework and hands-on labs. Weekly quizzes wil
 | Project proposal | 5% |
 | Project milestone | 15% |
 | Project presentation and final report | 40% |
-
+-->
 ### Project
 
-TODO
+TBA
 
 ### Timeline
-
+TBA
+<!--
 | Group formation | 9/13 |
 | Lab 1 out ([link](https://forms.gle/bqAN3Rt1yGU5GUdW7)) | 10/01 |
 | Project proposal | 10/04 |
@@ -98,24 +107,21 @@ TODO
 | Lab 2 due | 11/22 |
 | Project presentation | 12/02 |
 | Project final report | 12/13 |
-
-## Credits
-1 unit just attending the class; 2 units for doing a class project with a report; 3 units for doing a class project with significant implementation and report
+-->
 
 ## Course Description
+Decentralized trust has many advantages, including providing stronger security guarantees, enabling open access and participation, and providing transparency. Decentralized systems, such as blockchain, enable decentralized trust and empower new economies such as Decentralized Finance, Creators Economy, and Data Sovereignty. 
 
-Decentralized trust is a rapidly growing area of research that spans applications from blockchains to federated learning. Compared to traditional centralized trust, this model can provide stronger security guarantees, better open access to the system, and more transparency. It can enable users to have more control over their own data and support more flexible data sharing. Decentralized systems, such as blockchains or decentralized analytics-enabled databases, enable decentralized trust.
+Our goal is to provide a framework for students to understand this new space of decentralized systems, from a technology, economic, and a policy perspective, and become familiar with open research challenges in the area. We will explore the foundations and applications of decentralization technology and decentralized intelligence. 
 
-In this seminar class, our goal is to provide a framework for students to understand this new space of systems, both from a technology and a policy perspective, and become familiar with open research challenges in the area. We aim to provide students with the tools to analyze new decentralized systems, critically consider potential security flaws, and understand how external factors (such as data ownership policies) can influence system design. 
+The course will consist of invited talks by a range of experts and related discussions. We will cover a variety of topics and current open research challenges and state-of-the-art techniques in a wide spectrum of areas, including:
 
-The course will consist of invited talks by a range of experts in the area and related discussions. We will cover a variety of topics and current open research challenges, including:
 <ul>
-  <li>The basics of decentralized systems, including common challenges in achieving transparency and auditability in scalable, usable systems</li>
-  <li>Why provable guarantees are useful and how to achieve them, from cryptography to verification to fault-based guarantees</li>
-  <li>Data privacy in decentralized settings</li>
-  <li>Decentralized finance, including blockchains and smart contracts</li>
-  <li>Decentralized data science, including analytics, databases, and machine learning (?)</li>
-  <li>Economic factors, such as incentive compatibility and systemic risk calculation (?)</li> 
-  <li>Policy factors, such as how to define data ownership</li>
-  <li>Security issues specific to decentralized systems, including real-world attacks</li>
+  <li>Foundations for next generation decentralization technologies: scalability, usability, provable guarantees, auditable privacy, etc.
+  <li>Cryptoeconomics and mechanisms design for decentralized systems </li> 
+  <li>Decentralized data science</li> 
+  <li>Decentralized Finance and Central Bank Digital Currency (CBDC) </li> 
+  <li>Decentralized governance, organization </li> 
+  <li>Decentralized intelligence, Data DAO for public good</li>
+  <li>Responsible innovation and regulation in decentralized systems</li>
 </ul>
