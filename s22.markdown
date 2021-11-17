@@ -8,32 +8,15 @@ redirect_from:
 
 <!-- # Decentralized Systems -->
 
-# CS294-XXX:  Special Topics on Science and Technology of Decentralization and Decentralized Intelligence
+# CS294-196:  Special Topics on Science and Technology of Decentralization and Decentralized Intelligence
 <!--- [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/7861/discussion/) and [discord](https://discord.gg/3yFqmRjZDA). 
 - <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span>
 -->
 
-## Course Description
-Decentralized trust has many advantages, including providing stronger security guarantees, enabling open access and participation, and providing transparency. Decentralized systems, such as blockchain, enable decentralized trust and empower new economies such as Decentralized Finance, Creators Economy, and Data Sovereignty. 
-
-Our goal is to provide a framework for students to understand this new space of decentralized systems, from a technology, economic, and a policy perspective, and become familiar with open research challenges in the area. We will explore the foundations and applications of decentralization technology and decentralized intelligence. 
-
-The course will consist of invited talks by a range of experts and related discussions. We will cover a variety of topics and current open research challenges and state-of-the-art techniques in a wide spectrum of areas, including:
-
-<ul>
-  <li>Foundations for next generation decentralization technologies: scalability, usability, provable guarantees, auditable privacy, etc.</li>
-  <li>Cryptoeconomics and mechanisms design for decentralized systems </li> 
-  <li>Decentralized data science</li> 
-  <li>Decentralized Finance and Central Bank Digital Currency (CBDC) </li> 
-  <li>Decentralized governance, organization </li> 
-  <li>Decentralized intelligence, Data DAO for public good</li>
-  <li>Responsible innovation and regulation in decentralized systems</li>
-</ul>
-
 ## Instructors
 
-<table style="table-layout: fixed; font-size: 88%; align: middle;">
+<table style="table-layout: fixed; font-size: 88%; align: middle; text-align: center; border-collapse: collapse">
   <thead>
     <tr>
      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
@@ -57,7 +40,8 @@ The course will consist of invited talks by a range of experts and related discu
 Samyu Yagati
 
 ## Class Time
-Lecture: 3:30-5:30 Thurs. (Hybrid), starting TODO
+Lecture: 3:30-5:30 Tuesday in Soda 306.
+The class will be in hybrid format, but students are expected to attend lectures in person. Zoom lectures will be open to the public.
 
 <!--
 ## Office Hour
@@ -71,8 +55,17 @@ All times are in PST.
 | Xiaoyuan Liu (TA/GSI) | 12:30pm-01:30pm Thu | [Zoom link](https://berkeley.zoom.us/j/94026140944?pwd=blcxeE5DZmNHWWdDN0RxS2RpdEQvdz09) |
 | Neil Giridharan (TA/GSI) | 03:00pm-04:00pm Fri | [Zoom link](https://berkeley.zoom.us/j/5432961734) |
 -->
+
 ## Enrollment and Participation
-1 unit just attending the class; 2 units for doing a class project with a report; 3 units for doing a class project with significant implementation and report.
+Graduate students should enroll for CS294-196. Undergraduates should enroll for CS194-196.
+ 
+This is a variable-unit course. The requirements for each unit load are listed below.
+<ul>
+  <li>1 unit: attend lectures (graded on participation only)</li>
+  <li>2 units: attend lectures + complete a class project with a report</li>
+  <li>3 units: attend lectures + complete a class project that includes significant implementation + project report</li>
+</ul>
+
 
 <!--For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177. Please join our [edstem](https://edstem.org/us/courses/7861/discussion/).
 -->
@@ -96,34 +89,48 @@ All times are in PST.
 </script>
 -->
 
-<!--
 ## Grading
-The class will have short written homework and hands-on labs. Weekly quizzes will all be of equal weight (graded on completion), and will count for 10% of your overall grade. In addition, each student will participate in a group project **(group size: 3-5 students)** of choice aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi. 
+Students taking the course for 1 unit will be graded on participation only.
+
+Students taking the course for 2 or 3 units will be graded as follows:
 
 | Class participation | 10% |
-| Weekly Quizzes | 10% |
-| Lab 1 | 5% |
-| Lab 2 | 15% |
-| Project proposal | 5% |
+| Literature review | 10% |
+| Project proposal | 15% |
 | Project milestone | 15% |
-| Project presentation and final report | 40% |
--->
-<!--
+| Project presentation and final report | 50% |
+
+
 ### Project
 
-TBA
+Students taking the course for 2 or 3 units of credit will complete an open-ended research project, which they will present both in the form of an oral presentation and a course report in workshop paper format. You will choose an area of decentralized systems to explore and read related literature in that area. Then, you will choose a problem in that space and either build a system (taking the class for 3 units of credit requires a project that involves significant implementation) or conduct an experiment to contribute to the solution or exploration of the problem you identified.
+
+Students are welcome to choose their own topics. We will also provide a list of project ideas for inspiration. Group sizes TBA depending on enrollment.
 
 ### Timeline
 
-| Group formation | 9/13 |
-| Lab 1 out ([link](https://forms.gle/bqAN3Rt1yGU5GUdW7)) | 10/01 |
-| Project proposal | 10/04 |
-| Lab 1 due | 10/12 |
-| Project milestone | 11/01 |
-| Lab 2 out ([link](https://github.com/KaihuaQin/defi-mooc-lab2)) | 11/02 |
-| Lab 2 due | 11/22 |
-| Project presentation | 12/02 |
-| Project final report | 12/13 |
--->
+| Group formation | 02/08 |
+| Literature review | 02/22 |
+| Project proposal | 03/08 |
+| Project milestone | 04/12 |
+| Project presentation | 05/03 |
+| Project final report | 05/13 |
+
+## Course Description
+Decentralized trust has many advantages, including providing stronger security guarantees, enabling open access and participation, and providing transparency. Decentralized systems, such as blockchain, enable decentralized trust and empower new economies such as Decentralized Finance, Creators Economy, and Data Sovereignty. 
+
+Our goal is to provide a framework for students to understand this new space of decentralized systems, from a technology, economic, and a policy perspective, and become familiar with open research challenges in the area. We will explore the foundations and applications of decentralization technology and decentralized intelligence. 
+
+The course will consist of invited talks by a range of experts and related discussions. We will cover a variety of topics and current open research challenges and state-of-the-art techniques in a wide spectrum of areas, including:
+
+<ul>
+  <li>Foundations for next generation decentralization technologies: scalability, usability, provable guarantees, auditable privacy, etc.</li>
+  <li>Cryptoeconomics and mechanisms design for decentralized systems </li> 
+  <li>Decentralized data science</li> 
+  <li>Decentralized Finance and Central Bank Digital Currency (CBDC) </li> 
+  <li>Decentralized governance, organization </li> 
+  <li>Decentralized intelligence, Data DAO for public good</li>
+  <li>Responsible innovation and regulation in decentralized systems</li>
+</ul>
 
 
