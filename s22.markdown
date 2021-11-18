@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CS194/294-196 Decentralized Systems"
+title: "CS294/194-196 Decentralized Systems"
 permalink: /s22
 redirect_from:
   - /
