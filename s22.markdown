@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Decentralized Systems"
+title: "CS194/294-196 Decentralized Systems"
 permalink: /s22
 redirect_from:
   - /
@@ -8,7 +8,7 @@ redirect_from:
 
 <!-- # Decentralized Systems -->
 
-# CS294-196:  Special Topics on Science and Technology of Decentralization and Decentralized Intelligence
+# CS194/294-196:  Special Topics on Science and Technology of Decentralization and Decentralized Intelligence
 <!--- [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/7861/discussion/) and [discord](https://discord.gg/3yFqmRjZDA). 
 - <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span>
@@ -19,14 +19,14 @@ redirect_from:
 <table style="table-layout: fixed; font-size: 88%; align: middle; text-align: center; border-collapse: collapse">
   <thead>
     <tr>
-     <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="/assets/nacrooks_prof_pic.jpeg" alt="Natacha Crooks"></th>
+     <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
       <td><a href="https://nacrooks.github.io/">Natacha Crooks</a></td>
+      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
     </tr>
     <tr>
       <td>UC Berkeley</td>
@@ -57,9 +57,9 @@ All times are in PST.
 -->
 
 ## Enrollment and Participation
-Graduate students should enroll for CS294-196. Undergraduates should enroll for CS194-196.
+Graduate students should enroll in CS294-196. Undergraduates should enroll in CS194-196.
  
-This is a variable-unit course. The requirements for each unit load are listed below.
+This is a variable-unit course. The requirements for each number of units are listed below.
 <ul>
   <li>1 unit: attend lectures (graded on participation only)</li>
   <li>2 units: attend lectures + complete a class project with a report</li>
