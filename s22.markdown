@@ -117,7 +117,7 @@ Students are welcome to choose their own topics. We will also provide a list of 
 | Project final report | 05/13 |
 
 ## Course Description
-Decentralized trust has many advantages, including providing stronger security guarantees, enabling open access and participation, and providing transparency. Decentralized systems, such as blockchain, enable decentralized trust and empower new economies such as Decentralized Finance, Creators Economy, and Data Sovereignty. 
+Decentralized trust has many advantages, including providing stronger security guarantees, enabling open access and participation, and providing transparency. Decentralized systems, such as blockchain, enable decentralized trust and empower new economies such as Decentralized Finance, the Creator Economy, and Data Sovereignty. In the future, programmable, decentralized systems can enable autonomous agents and organizations to operate effectively with decentralized trust, empowering decentralized intelligence.
 
 Our goal is to provide a framework for students to understand this new space of decentralized systems, from a technology, economic, and a policy perspective, and become familiar with open research challenges in the area. We will explore the foundations and applications of decentralization technology and decentralized intelligence. 
 
