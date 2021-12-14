@@ -64,6 +64,7 @@ This is a variable-unit course. The requirements for each number of units are li
   <li>1 unit: attend lectures (graded on participation only)</li>
   <li>2 units: attend lectures + complete a class project with a report</li>
   <li>3 units: attend lectures + complete a class project that includes significant implementation + project report</li>
+  <li>4 units (requires instructor approval): attend lectures + complete a class project that includes very significant implementation/intellectual contribution + project report</li>
 </ul>
 
 
