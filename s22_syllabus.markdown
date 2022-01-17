@@ -26,12 +26,6 @@ permalink: /s22_syllabus
       </td>
       <td> {{ row.topic }} 
         <br>
-        {% if row.youtube_premiere %}
-          [<a target="_parent" href="{{row.youtube_premiere}}" style="font-size: 80%;text-decoration: underline;">Premiere</a>]
-        {% endif %}
-        {% if row.youtube_playlist %}
-          [<a target="_parent" href="{{row.youtube_playlist}}" style="font-size: 80%;text-decoration: underline;">Playlist</a>]
-        {% endif %}
         {% if row.slides %}
         <ul style="margin-bottom: 0;">
           {% for s in row.slides %}
@@ -43,6 +37,7 @@ permalink: /s22_syllabus
       <td> {{ row.module }}
         <br>
       </td>
+<!--
       <td> 
         {% if row.reading %}
         <ul style="margin-bottom: 0;">
@@ -58,6 +53,7 @@ permalink: /s22_syllabus
         </ul>
         {% endif %}
       </td>
+-->
     </tr>
     {% endfor %}
   </tbody>
