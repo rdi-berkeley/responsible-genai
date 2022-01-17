@@ -16,14 +16,8 @@ permalink: /s22_syllabus
     <tr>
       <td> {{ row.date }} </td>
       <td> 
-        {% if row.lecturer %} 
-          {% for l in row.lecturer %}
-            {% if row.lecturer.link %}
-              <a target="_parent" href="{{row.lecturer.link}}" style="text-decoration: underline;">{{row.lecturer.name}}</a>
-            {% else %}
-              {{ row.lecturer.name }}   
-            {% endif %}
-          {% endfor %}
+        {% if row.quiz %} 
+          <a target="_parent" href="{{row.quiz.link}}" style="text-decoration: underline;">{{row.quiz.name}}</a>
         {% else %}
           TBD
         {% endif %}
@@ -43,9 +37,6 @@ permalink: /s22_syllabus
           {% endfor %}
         </ul>
         {% endif %}
-      </td>
-      <td> {{ row.module }}
-        <br>
       </td>
       <td> 
         {% if row.reading %}
