@@ -34,17 +34,17 @@ redirect_from:
 
 Samyu Yagati
 
-## Class Time
+## Logistics
 Lecture: 3:30-5:30 Tuesday in Soda 306.
 
 Classes will be virtual (on Zoom, see link below) for the first two weeks of classes.
 
 The class will be in hybrid format, but students are expected to attend lectures in person. Zoom lectures will be open to the public.
 
-[Zoom link](https://berkeley.zoom.us/j/98158813317) for the class (password: 477371): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/98158813317)
-- For general course content related questions, please join our [edstem](https://edstem.org/us/courses/16163/discussion/) 
+[Zoom link](https://berkeley.zoom.us/j/98158813317) [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/98158813317) for the class (password: 477371)
+- For general course content related questions, please join our [edstem](https://edstem.org/us/courses/16163/discussion/).
 <!--and [discord](https://discord.gg/3yFqmRjZDA. - <span style="color: red;">-->
-<b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span>
+- <b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b>
 
 <!--
 ## Office Hour
