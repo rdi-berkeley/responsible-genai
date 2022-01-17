@@ -1,80 +1,60 @@
 - date: 01/18
   topic: Introduction and Foundations of Consensus
-  lecturer:
-    name: Dahlia Malkhi 
-    link: https://dahliamalkhi.github.io/
+  lecturer: Dahlia Malkhi
   module: Scalability
-- date: 01/28
+- date: 01/25
   topic: Order fairness and ACID transactions with BFT
-  lecturer:
-    name: Lorenzo Alvisi
-    link: https://www.cs.cornell.edu/lorenzo/
-    name: Natacha Crooks
-    link: https://nacrooks.github.io/
+  lecturer: Lorenzo Alvisi and Natacha Crooks 
   module: Scalability
 - date: 02/01
   topic: Optimistic rollup
-  lecturer:
-    name: TBA
+  lecturer: TBA
   module: Scalability
-- date: 02/08 
+- date: 02/08
   topic: ZK rollup
-  lecturer:
-    name: TBA
-  module: Scalbility
+  lecturer: TBA
+  module: Scalability
 - date: 02/15
   topic: MOVE and formal verification in smart contracts I
-  lecturer:
-    name: David Dill
-  module: Provable guarantees
+  lecturer: David Dill
+  module: Provable Guarantees
 - date: 02/22
   topic: Formal verification in smart contracts II
-  lecturer:
-    name: TBA
-  module: Provable guarantees
+  lecturer: TBA
+  module: Provable Guarantees
 - date: 03/01
-  topic: TBA
-  lecturer:
-    name: TBA
+  topic: TBA 
+  lecturer: TBA
   module: Privacy and Decentralized Identity
 - date: 03/08
   topic: TBA
-  lecturer:
-    name: TBA
+  lecturer: TBA
   module: Privacy and Decentralized Identity
-- date: 03/15 
-  topic: Cryptoeconomics and mechanisms designed for decentralized systems
-  lecturer:
-    name: TBA
-  module: Current topics in decentralization
+- date: 03/15
+  topic:  Cryptoeconomics and mechanisms designed for decentralized systems
+  lecturer: TBA
+  module: Current topics in decentralization 
 - date: 03/22
-  topic: -------Spring Break-------
-  lecturer:
-    name: None
-  module: None
+  topic: No Class (Spring Break)
+#  lecturer:
+#  module: 
 - date: 03/29
   topic: CBDC & DeFi
-  lecturer:
-    name: TBA
-  module: Current topics in decentralization
+  lecturer: TBA
+  module:  Current topics in decentralization
 - date: 04/05
   topic: NFT, GameFi, Metaverse
-  lecturer:
-    name: TBA
-  module: Current topics in decentralization
+  lecturer: TBA
+  module:  Current topics in decentralization
 - date: 04/12
-  topic: Decentralized governance, DAO 
-  lecturer:
-    name: TBA
-  module: Current topics in decentralization
+  topic: Decentralized governance, DAO
+  lecturer: TBA
+  module:  Current topics in decentralization
 - date: 04/19
   topic: Decentralized intelligence, Decentralized data science, Data DAO for public good
-  lecturer:
-    name: TBA
-  module: Current topics in decentralization
+  lecturer: TBA
+  module:  Current topics in decentralization
 - date: 04/26
   topic: Responsible innovation and regulation in decentralized systems
-  lecturer:
-    name: TBA
-  module: Current topics in decentralization
-
+  lecturer: TBA
+  module:  Current topics in decentralization
