@@ -15,12 +15,12 @@
 - date: 02/01
   topic: Optimistic rollup
   lecturer:
-    name: TBD
+    name: TBA
   module: Scalability
 - date: 02/08 
   topic: ZK rollup
   lecturer:
-    name: TBD
+    name: TBA
   module: Scalbility
 - date: 02/15
   topic: MOVE and formal verification in smart contracts I
@@ -33,7 +33,7 @@
     name: TBA
   module: Provable guarantees
 - date: 03/01
-  topic: TBD
+  topic: TBA
   lecturer:
     name: TBA
   module: Privacy and Decentralized Identity

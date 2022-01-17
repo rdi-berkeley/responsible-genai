@@ -16,17 +16,13 @@ permalink: /s22_syllabus
     <tr>
       <td> {{ row.date }} </td>
       <td> 
-        {% if row.lecturer %} 
-          {% for l in row.lecturer %}
-            {% if row.lecturer.link %}
-              <a target="_parent" href="{{row.lecturer.link}}" style="text-decoration: underline;">{{row.lecturer.name}}</a>
-            {% else %}
-              {{ row.lecturer.name }}   
-            {% endif %}
-          {% endfor %}
-        {% else %}
-          TBD
-        {% endif %}
+        {% for l in row.lecturer %}
+          {% if row.lecturer.link %}
+            <a target="_parent" href="{{row.lecturer.link}}" style="text-decoration: underline;">{{row.lecturer.name}}</a>
+          {% else %}
+            {{ row.lecturer.name }}   
+          {% endif %}
+        {% endfor %}
       </td>
       <td> {{ row.topic }} 
         <br>
