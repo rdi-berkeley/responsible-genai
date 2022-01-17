@@ -8,7 +8,7 @@ redirect_from:
 
 <!-- # Decentralized Systems -->
 
-# CS294/194-196:  Special Topics on Science and Technology of Decentralization and/Users/samyu/berkeley-desys.github.io/s22.markdown Decentralized Intelligence
+# CS294/194-196:  Special Topics on Science and Technology of Decentralization and Decentralized Intelligence
 ## Instructors
 
 <table style="table-layout: fixed; font-size: 88%; align: middle; text-align: center; border-collapse: collapse">
