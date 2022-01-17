@@ -32,7 +32,7 @@ redirect_from:
 
 ## TAs
 
-Samyu Yagati
+<a href="https://people.eecs.berkeley.edu/~samyu/">Samyu Yagati</a>
 
 ## Logistics
 Lecture: 3:30-5:30 Tuesday in Soda 306.
