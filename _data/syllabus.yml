@@ -4,6 +4,9 @@
       topic:
         title: Introduction and Foundations of Consensus
         speaker: Dahlia Malkhi
+        slides: 
+          - name: Blockchains in the lens of BFT
+            file: dahlia-malkhi-consensus-lec1.pdf 
     - date: 01/25
       topic:
         title: Order fairness and ACID transactions with BFT
@@ -18,19 +21,19 @@
   lectures:
     - date: 02/15
       topic:
-        title: MOVE and formal verification in smart contracts I
+        title: MOVE and formal verification in smart contracts (I)
         speaker: David Dill
     - date: 02/22
       topic:
-        title: Formal verification in smart contracts II
+        title: Formal verification in smart contracts (II)
 - module: Privacy and Decentralized Identity
   lectures:
     - date: 03/01
       topic:
-        title: Privacy and Dectralized Identity (I) 
+        title: Privacy and Decentralized Identity (I) 
     - date: 03/08
       topic:
-        title: Privacy and Dectralized Identity (II) 
+        title: Privacy and Decentralized Identity (II) 
 - module: Advanced topics in decentralization
   lectures:
     - date: 03/15

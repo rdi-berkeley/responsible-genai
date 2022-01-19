@@ -22,6 +22,13 @@ permalink: /s22_syllabus
             {% if lec.topic.speaker %}
               Speaker: {{ lec.topic.speaker }} 
             {% endif %}
+            {% if lec.topic.slides %}
+              <ul style="margin-bottom: 0;">
+                {% for s in lec.topic.slides %}
+                <li> <a target="_parent" href="https://berkeley-desys.github.io/assets/material/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
           </td>
         </tr>
       {% endfor %}
