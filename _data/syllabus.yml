@@ -27,11 +27,11 @@
   lectures:
     - date: 03/01
       topic:
-        title: TBA
+        title: Privacy and Dectralized Identity (I) 
     - date: 03/08
       topic:
-        title: TBA
-- module: Current topics in decentralization
+        title: Privacy and Dectralized Identity (II) 
+- module: Advanced topics in decentralization
   lectures:
     - date: 03/15
       topic:
