@@ -6,7 +6,9 @@
         speaker: Dahlia Malkhi
         slides: 
           - name: Blockchains in the lens of BFT
-            file: dahlia-malkhi-consensus-lec1.pdf 
+            file: dahlia-malkhi-consensus-lec1.pdf
+          - name: Intro/logistics
+            link: https://docs.google.com/presentation/d/1O18p8-p1WL9Q9gcQarUoIqpS_yTiTj6CpdsIfrIqRlk/edit#slide=id.g1091a38cd97_0_0 
     - date: 01/25
       topic:
         title: Order fairness and ACID transactions with BFT
