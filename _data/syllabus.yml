@@ -13,6 +13,13 @@
       topic:
         title: Order fairness and ACID transactions with BFT
         speaker: Lorenzo Alvisi and Natacha Crooks
+      reading:
+        - name: Practical Byzantine Fault Tolerance
+          file: pbft.pdf
+        - name: Byzantine Consensus without Byzantine Oligarchy
+          file: pompe.pdf
+        - name: Breaking up BFT with ACID (transactions)
+          file: basil.pdf 
     - date: 02/01
       topic:
         title: Optimistic rollup

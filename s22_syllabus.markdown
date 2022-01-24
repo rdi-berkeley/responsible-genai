@@ -7,12 +7,13 @@ permalink: /s22_syllabus
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
       <th style="width: 20%;">Date</th>
-      <th style="width: 80%;"> Topic </th>
+      <th style="width: 40%;"> Topic </th>
+      <th style="width: 40%;"> Recommended Reading </th>
   </thead>
   <tbody>
     {% for row in site.data.syllabus %}
     <tr>
-      <th id="par" colspan="2" scope="colgroup"> {{ row.module }} </th>
+      <th id="par" colspan="3" scope="colgroup"> {{ row.module }} </th>
     </tr>
       {% for lec in row.lectures %}
         <tr> 
@@ -32,6 +33,21 @@ permalink: /s22_syllabus
                   {% endif %}
                 {% endfor %}
               </ul>
+            {% endif %}
+          </td>
+          <td> 
+           {% if lec.reading %}
+            <ul style="margin-bottom: 0;">
+              {% for r in lec.reading %}
+                {% if r.file %}
+                  {% assign reading_link = 'https://berkeley-desys.github.io/assets/material/' | append: r.file %}
+                {% endif %}
+                {% if r.link %}
+                  {% assign reading_link = r.link %}
+                {% endif %}
+              <li> <a target="_parent" href="{{reading_link}}"> {{ r.name }} </a> </li>
+              {% endfor %}
+            </ul>
             {% endif %}
           </td>
         </tr>
