@@ -9,7 +9,7 @@
             file: dahlia-malkhi-consensus-lec1.pdf
           - name: Intro/logistics
             link: https://docs.google.com/presentation/d/1O18p8-p1WL9Q9gcQarUoIqpS_yTiTj6CpdsIfrIqRlk/edit#slide=id.g1091a38cd97_0_0 
-    - date: 01/25
+    - date: 01/27
       topic:
         title: Order fairness and ACID transactions with BFT
         speaker: Lorenzo Alvisi and Natacha Crooks
@@ -20,49 +20,49 @@
           file: pompe.pdf
         - name: Breaking up BFT with ACID (transactions)
           file: basil.pdf 
-    - date: 02/01
+    - date: 02/03
       topic:
         title: Optimistic rollup
-    - date: 02/08
+    - date: 02/10
       topic:
         title: ZK rollup
 - module: Provable Guarantees
   lectures:
-    - date: 02/15
+    - date: 02/17
       topic:
         title: MOVE and formal verification in smart contracts (I)
         speaker: David Dill
-    - date: 02/22
+    - date: 02/24
       topic:
         title: Formal verification in smart contracts (II)
 - module: Privacy and Decentralized Identity
   lectures:
-    - date: 03/01
+    - date: 03/03
       topic:
         title: Privacy and Decentralized Identity (I) 
-    - date: 03/08
+    - date: 03/10
       topic:
         title: Privacy and Decentralized Identity (II) 
 - module: Advanced topics in decentralization
   lectures:
-    - date: 03/15
+    - date: 03/17
       topic:
         title: Cryptoeconomics and mechanisms designed for decentralized systems
-    - date: 03/22
+    - date: 03/24
       topic:
         title: No Class (Spring Break)
-    - date: 03/29
+    - date: 03/31
       topic:
         title: CBDC & DeFi
-    - date: 04/05
+    - date: 04/07
       topic:
         title: NFT, GameFi, Metaverse
-    - date: 04/12
+    - date: 04/14
       topic:
         title: Decentralized governance, DAO
-    - date: 04/19
+    - date: 04/21
       topic:
         title: Decentralized intelligence, Decentralized data science, Data DAO for public good
-    - date: 04/26
+    - date: 04/28
       topic:
         title: Responsible innovation and regulation in decentralized systems

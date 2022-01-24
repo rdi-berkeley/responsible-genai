@@ -35,11 +35,11 @@ redirect_from:
 <a href="https://people.eecs.berkeley.edu/~samyu/">Samyu Yagati</a>
 
 ## Logistics
-Lecture: 3:30-5:30 Tuesday in Soda 306.
+Lecture: 10 am to noon PT Thursday in Soda 310 and on Zoom (see link below).
 
 Classes will be virtual (on Zoom, see link below) for the first two weeks of classes.
 
-The class will be in hybrid format, but students are expected to attend lectures in person. Zoom lectures will be open to the public.
+The class will be in hybrid format. We expect in-person or online attendance and require each student to ask 3 questions to speakers over the course of the semester. If you have a time conflict with another class, please contact the instructors on EdStem for an exception. Zoom lectures will be open to the public.
 
 [Zoom link](https://berkeley.zoom.us/j/98158813317) [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/98158813317) for the class (password: 477371)
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/16163/discussion/).
