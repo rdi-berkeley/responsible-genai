@@ -25,16 +25,17 @@
         title: Optimistic rollup
     - date: 02/10
       topic:
-        title: ZK rollup
-- module: Provable Guarantees
-  lectures:
+        title: ZKP tutorial
+        speaker: Yupeng Zhang
     - date: 02/17
       topic:
-        title: MOVE and formal verification in smart contracts (I)
-        speaker: David Dill
+        title: ZKP rollup
+        speaker: Eli Ben-Sasson
+- module: Provable Guarantees
+  lectures:
     - date: 02/24
       topic:
-        title: Formal verification in smart contracts (II)
+        title: Formal verification in smart contracts
 - module: Privacy and Decentralized Identity
   lectures:
     - date: 03/03
