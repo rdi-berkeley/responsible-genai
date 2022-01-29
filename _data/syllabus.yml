@@ -22,7 +22,13 @@
           file: basil.pdf 
     - date: 02/03
       topic:
-        title: Optimistic rollup
+        title: "Off-chain scalability: Channel networks and rollups"
+        speaker: Patrick McCorry
+      reading:
+        - name: "Layer 2 Blockchain Protocols"
+          link: https://eprint.iacr.org/2019/360.pdf
+        - name: Validating Bridges as a Scaling Solution for Blockchains
+          link: https://eprint.iacr.org/2021/1589.pdf
     - date: 02/10
       topic:
         title: ZKP tutorial
