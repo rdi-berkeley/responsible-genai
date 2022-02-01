@@ -36,6 +36,13 @@
       topic:
         title: ZK tutorial
         speaker: Yupeng Zhang
+      reading:
+        - name: "Zero Knowledge Proofs: An illustrated primer"
+          link: https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/
+        - name: Zcash and zk-SNARKs
+          link: https://z.cash/technology/zksnarks/
+        - name: Time-Optimal Interactive Proofs for Circuit Evaluation
+          link: https://link.springer.com/content/pdf/10.1007%2F978-3-642-40084-1_5.pdf
     - date: 02/17
       topic:
         title: ZK rollup
