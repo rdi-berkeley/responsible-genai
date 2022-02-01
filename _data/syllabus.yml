@@ -12,7 +12,10 @@
     - date: 01/27
       topic:
         title: Order fairness and ACID transactions with BFT
-        speaker: Lorenzo Alvisi and Natacha Crooks
+        speaker: Lorenzo Alvisi
+        slides:
+          - name: Orderrrrr!!! A tale of money, intrigue, and specifications
+            file: lorenzo-alvisi-orderrr-lec2.pdf
       reading:
         - name: Practical Byzantine Fault Tolerance
           file: pbft.pdf
@@ -31,26 +34,27 @@
           link: https://eprint.iacr.org/2021/1589.pdf
     - date: 02/10
       topic:
-        title: ZKP tutorial
+        title: ZK tutorial
         speaker: Yupeng Zhang
     - date: 02/17
       topic:
-        title: ZKP rollup
+        title: ZK rollup
         speaker: Eli Ben-Sasson
 - module: Provable Guarantees
   lectures:
     - date: 02/24
       topic:
-        title: Formal verification in smart contracts
-- module: Privacy and Decentralized Identity
-  lectures:
+        title: MOVE and Formal verification in smart contracts
+        speaker: David Dill
     - date: 03/03
       topic:
-        title: Privacy and Decentralized Identity (I) 
+        title: Formal verification in smart contracts (II) 
+- module: Privacy Technologies in Blockchain
+  lectures:
     - date: 03/10
       topic:
-        title: Privacy and Decentralized Identity (II) 
-- module: Advanced topics in decentralization
+        title: Privacy and Decentralized Identity 
+- module: Cryptoeconomics
   lectures:
     - date: 03/17
       topic:
@@ -58,6 +62,8 @@
     - date: 03/24
       topic:
         title: No Class (Spring Break)
+- module: Advanced topics in decentralization
+  lectures:   
     - date: 03/31
       topic:
         title: CBDC & DeFi
