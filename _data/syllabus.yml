@@ -27,6 +27,9 @@
       topic:
         title: "Off-chain scalability: Channel networks and rollups"
         speaker: Patrick McCorry
+        slides:
+          - name: "Off-chain scalability: Channel networks and rollups."
+            link: https://docs.google.com/presentation/d/1LxWL-yP3nIxk7RSRaIvcHWnTNedzKNwROt4HH-GecxE/edit?usp=sharing
       reading:
         - name: "Layer 2 Blockchain Protocols"
           link: https://eprint.iacr.org/2019/360.pdf
