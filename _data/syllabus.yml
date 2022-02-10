@@ -3,7 +3,7 @@
     - date: 01/18
       topic:
         title: Introduction and Foundations of Consensus
-        speaker: Dahlia Malkhi
+        speaker: Dahlia Malkhi (Novi)
         slides: 
           - name: Blockchains in the lens of BFT
             file: dahlia-malkhi-consensus-lec1.pdf
@@ -12,7 +12,7 @@
     - date: 01/27
       topic:
         title: Order fairness with Consensus
-        speaker: Lorenzo Alvisi
+        speaker: Lorenzo Alvisi (Cornell University)
         slides:
           - name: Orderrrrr!!! A tale of money, intrigue, and specifications
             file: lorenzo-alvisi-orderrr-lec2.pdf
@@ -26,7 +26,7 @@
     - date: 02/03
       topic:
         title: "Off-chain scalability: Channel networks and rollups"
-        speaker: Patrick McCorry
+        speaker: Patrick McCorry (Infura)
         slides:
           - name: "Off-chain scalability: Channel networks and rollups."
             link: https://docs.google.com/presentation/d/1LxWL-yP3nIxk7RSRaIvcHWnTNedzKNwROt4HH-GecxE/edit?usp=sharing
@@ -38,7 +38,7 @@
     - date: 02/10
       topic:
         title: ZK tutorial
-        speaker: Yupeng Zhang
+        speaker: Yupeng Zhang (Texas A&M University)
       reading:
         - name: "Zero Knowledge Proofs: An illustrated primer"
           link: https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/
@@ -63,7 +63,8 @@
   lectures:
     - date: 03/10
       topic:
-        title: Privacy and Decentralized Identity 
+        title: Privacy and Decentralized Identity
+        speaker: Hugo Krawczyk and Craig Gentry (Algorand)
 - module: Cryptoeconomics
   lectures:
     - date: 03/17
