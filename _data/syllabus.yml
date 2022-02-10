@@ -39,6 +39,9 @@
       topic:
         title: ZK tutorial
         speaker: Yupeng Zhang (Texas A&M University)
+        slides:
+          - name: Zero-knowledge Proof and Its Applications in Privacy-preserving Cryptocurrencies
+            file: yupeng-zhang-zktutorial-lec4.pptx
       reading:
         - name: "Zero Knowledge Proofs: An illustrated primer"
           link: https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/
@@ -70,6 +73,7 @@
     - date: 03/17
       topic:
         title: Cryptoeconomics and mechanisms design for decentralized systems
+        speaker: Arthur Breitman
     - date: 03/24
       topic:
         title: No Class (Spring Break)
