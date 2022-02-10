@@ -46,14 +46,13 @@ The class will be in hybrid format. We expect in-person or online attendance and
 <!--and [discord](https://discord.gg/3yFqmRjZDA. - <span style="color: red;">-->
 - <b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b>
 
-<!--
-## Office Hour
-All times are in PST.
+
+## Office Hours
+All times are in PST. Office hours begin <b>February 18, 2022</b>.
  
-| Samyu Yagati (TA/GSI) | TBA | Link to be added |
-| Dawn Song (Professor) | TBA | Link to be added |
-| Natacha Crooks (Professor) | TBA | Link to be added |
--->
+| Samyu Yagati (TA/GSI) | By appointment | Soda Hall 4th floor lounge |
+| Natacha Crooks (Professor) | 9-10 AM Friday  | 723 Soda Hall |
+
 <!--| Dawn Song (Professor) | 05:00pm-05:30pm Wed | [Zoom link](https://berkeley.zoom.us/j/93029293682?pwd%3DOVBybGhMYVBCTEJUelNyRm5SdHZuZz09&sa=D&source=calendar&usg=AOvVaw1DYoPVsE2MYIbUQwxzojdD) (ID: 93029293682, Passcode: 5q47hS3N) |
 | Xiaoyuan Liu (TA/GSI) | 12:30pm-01:30pm Thu | [Zoom link](https://berkeley.zoom.us/j/94026140944?pwd=blcxeE5DZmNHWWdDN0RxS2RpdEQvdz09) |
 | Neil Giridharan (TA/GSI) | 03:00pm-04:00pm Fri | [Zoom link](https://berkeley.zoom.us/j/5432961734) |
@@ -96,7 +95,7 @@ This is a variable-unit course. The requirements for each number of units are li
 ## Grading
 Students taking the course for 1 unit will be graded on participation only.
 
-Students taking the course for 2 or 3 units will be graded as follows:
+Students taking the course for 2 or more units will be graded as follows:
 
 | Class participation | 10% |
 | Literature review | 10% |
@@ -107,10 +106,9 @@ Students taking the course for 2 or 3 units will be graded as follows:
 
 ### Project
 
-Students taking the course for 2 or 3 units of credit will complete an open-ended research project, which they will present both in the form of an oral presentation and a course report in workshop paper format. You will choose an area of decentralized systems to explore and read related literature in that area. Then, you will choose a problem in that space and either build a system (taking the class for 3 units of credit requires a project that involves significant implementation) or conduct an experiment to contribute to the solution or exploration of the problem you identified.
+Students taking the course for 2 or more units of credit will complete an open-ended research project, which they will present both in the form of an oral presentation and a course report in workshop paper format. You will choose an area of decentralized systems to explore and read related literature in that area. Then, you will choose a problem in that space and either build a system (taking the class for 3 units of credit requires a project that involves significant implementation, and taking it for 4 units requires both significant implementation and intellectual contribution) or conduct an experiment to contribute to the solution or exploration of the problem you identified.
 
-Students are welcome to choose their own topics. We will also provide a list of project ideas for inspiration. Group sizes TBA depending on enrollment.
-
+Students are welcome to choose their own topics. We will also provide a list of project ideas for inspiration. Group sizes should be 3-4 students (all taking the course for the same number of units); please post on EdStem to request approval for other group sizes.
 ### Timeline
 
 | Group formation | 02/10 |

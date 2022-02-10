@@ -11,7 +11,7 @@
             link: https://docs.google.com/presentation/d/1O18p8-p1WL9Q9gcQarUoIqpS_yTiTj6CpdsIfrIqRlk/edit#slide=id.g1091a38cd97_0_0 
     - date: 01/27
       topic:
-        title: Order fairness and ACID transactions with BFT
+        title: Order fairness with Consensus
         speaker: Lorenzo Alvisi
         slides:
           - name: Orderrrrr!!! A tale of money, intrigue, and specifications
@@ -58,7 +58,7 @@
         speaker: David Dill
     - date: 03/03
       topic:
-        title: Formal verification in smart contracts (II) 
+        title: TBD 
 - module: Privacy Technologies in Blockchain
   lectures:
     - date: 03/10
@@ -68,7 +68,7 @@
   lectures:
     - date: 03/17
       topic:
-        title: Cryptoeconomics and mechanisms designed for decentralized systems
+        title: Cryptoeconomics and mechanisms design for decentralized systems
     - date: 03/24
       topic:
         title: No Class (Spring Break)
