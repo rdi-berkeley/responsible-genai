@@ -53,15 +53,21 @@
       topic:
         title: ZK rollup
         speaker: Eli Ben-Sasson
+        slides: 
+          - name: ZK-Stark Theory and Implementation
+            file: lec5_eli_ben_sasson_zk_stark.pdf
 - module: Provable Guarantees
   lectures:
     - date: 02/24
       topic:
         title: MOVE and Formal verification in smart contracts
         speaker: David Dill
+- module: Decentralized Storage
+  lectures:
     - date: 03/03
       topic:
-        title: TBD 
+        title: Decentralized Storage
+        speaker: Juan Benet (Protocol Labs)
 - module: Privacy Technologies in Blockchain
   lectures:
     - date: 03/10

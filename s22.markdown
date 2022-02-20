@@ -92,6 +92,17 @@ This is a variable-unit course. The requirements for each number of units are li
   };
 </script>
 
+## Project
+
+Students taking the course for 2 or more units of credit will complete an open-ended research project, which they will present both in the form of an oral presentation and a course report in workshop paper format. You will choose an area of decentralized systems to explore and read related literature in that area. Then, you will choose a problem in that space and either build a system (taking the class for 3 units of credit requires a project that involves significant implementation, and taking it for 4 units requires both significant implementation and intellectual contribution) or conduct an experiment to contribute to the solution or exploration of the problem you identified.
+
+Students are welcome to choose their own topics. We will also provide a list of project ideas for inspiration. Group sizes should be 3-4 students (all taking the course for the same number of units); please post on EdStem to request approval for other group sizes.
+
+### Project Ideas
+A list of possible project ideas can be found <a href="https://docs.google.com/presentation/d/1TJ2NRyjLEc25t1pPbdL5oNYjfXKWQD5Th9EDiUvzvWk/edit?usp=sharing">here</a>. Students may also choose to work on their own project ideas. 
+
+### Literature review guidelines (Review due 2/24 <a href="https://forms.gle/wzvBmjnu6UGZWcLY6">here</a>; submit one form per group)
+The literature review should be 3-5 pages in length (Latex, two-column following the Usenix style guide). The write-up should include a short introduction/abstract explaining the problem space you are planning to study in your course project. The review should give the reader (1) an overview of related work, especially what has already been done in the space you’re exploring, and (2) be as comprehensive as possible in terms of covering the space. Please focus on classifying and relating works to each other rather than simply providing a list of paper summaries.
 
 ## Grading
 Students taking the course for 1 unit will be graded on participation only.
@@ -105,11 +116,6 @@ Students taking the course for 2 or more units will be graded as follows:
 | Project presentation and final report | 50% |
 
 
-### Project
-
-Students taking the course for 2 or more units of credit will complete an open-ended research project, which they will present both in the form of an oral presentation and a course report in workshop paper format. You will choose an area of decentralized systems to explore and read related literature in that area. Then, you will choose a problem in that space and either build a system (taking the class for 3 units of credit requires a project that involves significant implementation, and taking it for 4 units requires both significant implementation and intellectual contribution) or conduct an experiment to contribute to the solution or exploration of the problem you identified.
-
-Students are welcome to choose their own topics. We will also provide a list of project ideas for inspiration. Group sizes should be 3-4 students (all taking the course for the same number of units); please post on EdStem to request approval for other group sizes.
 ### Timeline
 
 | Group formation | 02/10 |
