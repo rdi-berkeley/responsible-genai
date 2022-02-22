@@ -101,7 +101,7 @@ Students are welcome to choose their own topics. We will also provide a list of 
 ### Project Ideas
 A list of possible project ideas can be found <a href="https://docs.google.com/presentation/d/1TJ2NRyjLEc25t1pPbdL5oNYjfXKWQD5Th9EDiUvzvWk/edit?usp=sharing">here</a>. Students may also choose to work on their own project ideas. 
 
-### Literature review guidelines (Review due 2/24 <a href="https://forms.gle/wzvBmjnu6UGZWcLY6">here</a>; submit one form per group)
+### Literature review guidelines (Review due 2/28 <a href="https://forms.gle/wzvBmjnu6UGZWcLY6">here</a>; submit one form per group)
 The literature review should be 3-5 pages in length (Latex, two-column following the Usenix style guide). The write-up should include a short introduction/abstract explaining the problem space you are planning to study in your course project. The review should give the reader (1) an overview of related work, especially what has already been done in the space you’re exploring, and (2) be as comprehensive as possible in terms of covering the space. Please focus on classifying and relating works to each other rather than simply providing a list of paper summaries.
 
 ## Grading
@@ -119,7 +119,7 @@ Students taking the course for 2 or more units will be graded as follows:
 ### Timeline
 
 | Group formation | 02/10 |
-| Literature review | 02/24 |
+| Literature review | 02/28 |
 | Project proposal | 03/10 |
 | Project milestone | 04/14 |
 | Project presentation | 05/05 |
