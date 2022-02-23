@@ -50,7 +50,7 @@ The class will be in hybrid format. We expect in-person or online attendance and
 ## Office Hours
 All times are in PST. Office hours begin <b>February 18, 2022</b>.
 
-| Samyu Yagati (TA/GSI) | 2-3 PM Thursday | 373 Soda Hall |
+| Samyu Yagati (TA/GSI) | 2-3 PM Thursday | 283H Soda Hall |
 | Natacha Crooks (Professor) | 9-10 AM Friday  | 723 Soda Hall |
 | Dawn Song (Professor) | 4:30-5 PM Wednesday | [Zoom link](https://berkeley.zoom.us/j/3665214895)[_<img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/>_](https://berkeley.zoom.us/j/3665214895) |
 
