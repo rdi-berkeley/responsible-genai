@@ -62,6 +62,9 @@
       topic:
         title: MOVE and Formal verification in smart contracts
         speaker: David Dill
+        slides:
+          - name: A formal verifier for the Diem blockchain MOVE language
+            file: DavidDill_FormalVerf_Blockchain.pptx
       reading:
         - name: "MOVE whitepaper (focus on sec. 3 and 4)"
           link: https://diem-developers-components.netlify.app/papers/diem-move-a-language-with-programmable-resources/2020-05-26.pdf
