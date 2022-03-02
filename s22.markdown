@@ -14,8 +14,8 @@ redirect_from:
 <table style="table-layout: fixed; font-size: 88%; align: middle; text-align: center; border-collapse: collapse">
   <thead>
     <tr>
-     <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="/assets/nacrooks_prof_pic.jpeg" alt="Natacha Crooks"></th>
-     <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
+     <th style="width: 40%;"><img style="object-fit:cover" width=200 height=200 src="/assets/nacrooks_prof_pic.jpeg" alt="Natacha Crooks"></th>
+     <th style="width: 40%;"><img style="object-fit:cover" width=200 height=200 src="/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
     </tr>
   </thead>
   <tbody>
