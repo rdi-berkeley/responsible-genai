@@ -74,6 +74,13 @@
       topic:
         title: Decentralized Storage
         speaker: Juan Benet (Protocol Labs)
+      reading:
+        - name: InterPlanetary File System (IPFS) 
+          link: https://arxiv.org/pdf/1407.3561.pdf  
+        - name: FileCoin (focus on theory concepts) 
+          link: https://filecoin.io/filecoin.pdf 
+        - name: Proof of replication
+          link: https://research.filecoin.io/assets/proof-of-replication.pdf
 - module: Privacy Technologies in Blockchain
   lectures:
     - date: 03/10
