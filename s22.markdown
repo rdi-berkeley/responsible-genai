@@ -75,7 +75,7 @@ This is a variable-unit course. The requirements for each number of units are li
 -->
 
 ## Syllabus (subject to change)
-<iframe id="syllabus" src="/s22_syllabus" width="100%" height="1700" frameborder=0> </iframe>
+<iframe id="syllabus" src="/s22_syllabus" width="100%" height="1630" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {
@@ -101,15 +101,17 @@ Students are welcome to choose their own topics. We will also provide a list of 
 ### Project Ideas
 A list of possible project ideas can be found <a href="https://docs.google.com/presentation/d/1TJ2NRyjLEc25t1pPbdL5oNYjfXKWQD5Th9EDiUvzvWk/edit?usp=sharing">here</a>. Students may also choose to work on their own project ideas. 
 
+More information on the project can be found <a href="https://docs.google.com/presentation/d/1ZvM3z3k6qG_VLyrlKixvtgvhiAotmADaYsWEdfvT_Gc/edit?usp=sharing">here</a>.
+
 ### Literature review guidelines (Review due 2/28 <a href="https://forms.gle/wzvBmjnu6UGZWcLY6">here</a>; submit one form per group)
 The literature review should be 3-5 pages in length (Latex, two-column following the Usenix style guide). The write-up should include a short introduction/abstract explaining the problem space you are planning to study in your course project. The review should give the reader (1) an overview of related work, especially what has already been done in the space you’re exploring, and (2) be as comprehensive as possible in terms of covering the space. Please focus on classifying and relating works to each other rather than simply providing a list of paper summaries.
 
 ### Project proposal guidelines (Proposal due 3/10 <a href="https://forms.gle/CwXPpPnwXYtuftJ76">here</a>; submit one form per group)
-students registered for 2-4 units will be completing an open-ended project culminating in a presentation and a workshop-style paper submitted at the end of the semester. In the broader area of research in decentralized systems that you wish to explore and submitted a literature review on, you should identify an area that you believe needs improvement or merits further research. You will then build a system and/or conduct experiments to further the state of the art within your chosen field.
+Students registered for 2-4 units will be completing an open-ended project culminating in a presentation and a workshop-style paper submitted at the end of the semester. In the broader area of research in decentralized systems that you wish to explore and submitted a literature review on, you should identify an area that you believe needs improvement or merits further research. You will then build a system and/or conduct experiments to further the state of the art within your chosen field.
 
-The project proposal will be submitted via this Google form, and should explain the area you are exploring, what your chosen problem is, why it is interesting (ideally from a research perspective; if you are taking the course for 4 units, you must explain why the problem is interesting from a research perspective), what your planned approach is, and why and to what extent you think it will solve the problem. 
+The project proposal will be submitted via the Google form linked above, and should explain the area you are exploring, what your chosen problem is, why it is interesting (ideally from a research perspective; if you are taking the course for 4 units, you must explain why the problem is interesting from a research perspective), what your planned approach is, and why and to what extent you think it will solve the problem. 
 
-The PDF should be 2-3 pages in length (not including references), and be in Latex, with a two-column format following the Usenix style guide. Your proposal should include the sections outlined in <a href="https://docs.google.com/document/d/1orZuTZ6v0KKi-TmjPo19YURe91iC0230bb56Y1ZAytc/edit?usp=sharing">this document</a>, and address all the questions included in the document. 
+The PDF you submit should be 2-3 pages in length (not including references), and be in Latex, with a two-column format following the Usenix style guide. Your proposal should include the sections outlined in <a href="https://docs.google.com/document/d/1orZuTZ6v0KKi-TmjPo19YURe91iC0230bb56Y1ZAytc/edit?usp=sharing">this document</a>, and address all the questions included in the document. 
 
 ## Grading
 Students taking the course for 1 unit will be graded on participation only.

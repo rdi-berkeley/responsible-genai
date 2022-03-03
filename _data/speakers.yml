@@ -19,7 +19,10 @@ H has been researching cryptographic and zero knowledge proofs of computational 
  - name: David Dill
    bio: "David L. Dill is a Lead Researcher at Meta, working on the Diem blockchain project.  He is also Donald E. Knuth Professor, Emeritus, in the School of Engineering at Stanford University. He was on the faculty in the Department of Computer Science at Stanford from 1987 until becoming emeritus in 2017.  Prof. Dill’s research interests include formal verification of software, hardware, and protocols, with a focus on automated techniques, as well as voting technology and computational biology. For his research contributions, he has received a CAV award and Alonzo Church award. He is an IEEE Fellow, an ACM Fellow and a member of the National Academy of Engineering and the American Academy of Arts and Sciences.  He also received an EFF Pioneer Award for his work in voting technology and is the founder of VerifiedVoting.org, an organization that champions trustworthy elections."
    picture: david_dill.jpeg
+ - name: Juan Benet
+   bio: "Juan is the founder of Protocol Labs, a research, development, and deployment company. He created IPFS, a decentralized web protocol, and Filecoin, a decentralized storage network. He is obsessed with knowledge, science, and technology."
+   picture: juan_benet.jpg
  - name: Arthur Breitman
    bio: "Arthur Breitman is an early architect of the Tezos protocol. Prior to becoming involved in Tezos full time, he worked at X and Waymo on self-driving cars. In his earlier career, he worked as a quantitative analyst at Goldman Sachs and Morgan Stanley. Arthur graduated from the École polytechnique and holds a MS in financial mathematics from the Courant Institute at NYU."
    picture: arthur_breitman_photo.JPG
-
+ 

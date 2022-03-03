@@ -74,6 +74,9 @@
       topic:
         title: Decentralized Storage
         speaker: Juan Benet (Protocol Labs)
+        slides:
+          - name: Course Project Information
+            link: https://docs.google.com/presentation/d/1ZvM3z3k6qG_VLyrlKixvtgvhiAotmADaYsWEdfvT_Gc/edit?usp=sharing
       reading:
         - name: InterPlanetary File System (IPFS) 
           link: https://arxiv.org/pdf/1407.3561.pdf  
@@ -86,7 +89,7 @@
     - date: 03/10
       topic:
         title: Privacy and Decentralized Identity
-        speaker: Hugo Krawczyk and Craig Gentry (Algorand)
+        speaker: Craig Gentry and Tal Rabin (Algorand)
 - module: Cryptoeconomics
   lectures:
     - date: 03/17
