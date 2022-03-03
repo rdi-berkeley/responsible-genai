@@ -109,7 +109,7 @@ students registered for 2-4 units will be completing an open-ended project culmi
 
 The project proposal will be submitted via this Google form, and should explain the area you are exploring, what your chosen problem is, why it is interesting (ideally from a research perspective; if you are taking the course for 4 units, you must explain why the problem is interesting from a research perspective), what your planned approach is, and why and to what extent you think it will solve the problem. 
 
-The PDF should be 2-3 pages in length (not including references), and be in Latex, with a two-column format following the Usenix style guide. Your proposal should include the sections outlined in <a href=https://docs.google.com/document/d/1orZuTZ6v0KKi-TmjPo19YURe91iC0230bb56Y1ZAytc/edit?usp=sharing>this document</a>, and address all the questions included in the document. 
+The PDF should be 2-3 pages in length (not including references), and be in Latex, with a two-column format following the Usenix style guide. Your proposal should include the sections outlined in <a href="https://docs.google.com/document/d/1orZuTZ6v0KKi-TmjPo19YURe91iC0230bb56Y1ZAytc/edit?usp=sharing">this document</a>, and address all the questions included in the document. 
 
 ## Grading
 Students taking the course for 1 unit will be graded on participation only.
