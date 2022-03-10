@@ -6,8 +6,8 @@ permalink: /s22_syllabus
 
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
-      <th style="width: 20%;">Date</th>
-      <th style="width: 40%;"> Topic </th>
+      <th style="width: 10%;">Date</th>
+      <th style="width: 50%;"> Topic </th>
       <th style="width: 40%;"> Recommended Reading </th>
   </thead>
   <tbody>

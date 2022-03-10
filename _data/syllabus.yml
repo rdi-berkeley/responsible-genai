@@ -90,6 +90,12 @@
       topic:
         title: Privacy and Decentralized Identity
         speaker: Craig Gentry and Tal Rabin (Algorand)
+        slides:
+          - name: Proof of Work vs. Proof of Stake
+            file: pow_pos_slides.pdf
+      reading:
+        - name: Can a Blockchain Keep a Secret?
+          link: https://eprint.iacr.org/2020/464
 - module: Cryptoeconomics
   lectures:
     - date: 03/17
