@@ -36,12 +36,12 @@ redirect_from:
 
 ## Logistics
 Lecture: 10 am to noon PT Thursday in Soda 310 and on Zoom (see link below).
+[Zoom link](https://berkeley.zoom.us/j/98158813317) [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/98158813317) for the class (password: 477371)
 
-Classes will be virtual (on Zoom, see link below) for the first two weeks of classes.
+To get future announcements about the course and guest lectures, please join <a href=https://groups.google.com/g/berkeley-rdi>the mailing list</a>.
 
 The class will be in hybrid format. We expect in-person or online attendance and require each student to ask 3 questions to speakers over the course of the semester. If you have a time conflict with another class, please contact the instructors on EdStem for an exception. Zoom lectures will be open to the public.
 
-[Zoom link](https://berkeley.zoom.us/j/98158813317) [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/98158813317) for the class (password: 477371)
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/16163/discussion/).
 <!--and [discord](https://discord.gg/3yFqmRjZDA. - <span style="color: red;">-->
 - <b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b>

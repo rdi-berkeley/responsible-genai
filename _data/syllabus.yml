@@ -93,6 +93,8 @@
         slides:
           - name: Proof of Work vs. Proof of Stake
             file: pow_pos_slides.pdf
+          - name: Can a Blockchain Keep a Secret?
+            file: Craig_Gentry_Can-a-Blockchain-Keep-a-Secret.pptx
       reading:
         - name: Can a Blockchain Keep a Secret?
           link: https://eprint.iacr.org/2020/464
