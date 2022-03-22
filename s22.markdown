@@ -38,7 +38,7 @@ redirect_from:
 Lecture: 10 am to noon PT Thursday in Soda 310 and on Zoom (see link below).
 [Zoom link](https://berkeley.zoom.us/j/98158813317) [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/98158813317) for the class (password: 477371)
 
-To get future announcements about the course and guest lectures, please join <a href=https://groups.google.com/g/berkeley-rdi>the mailing list</a>.
+To get future announcements about the course and guest lectures, please join <a href="https://groups.google.com/g/berkeley-rdi">the mailing list</a>.
 
 The class will be in hybrid format. We expect in-person or online attendance and require each student to ask 3 questions to speakers over the course of the semester. If you have a time conflict with another class, please contact the instructors on EdStem for an exception. Zoom lectures will be open to the public.
 
@@ -75,7 +75,7 @@ This is a variable-unit course. The requirements for each number of units are li
 -->
 
 ## Syllabus (subject to change)
-<iframe id="syllabus" src="/s22_syllabus" width="100%" height="1500" frameborder=0> </iframe>
+<iframe id="syllabus" src="/s22_syllabus" width="100%" height="1600" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {
@@ -89,6 +89,24 @@ This is a variable-unit course. The requirements for each number of units are li
 
   window.onload = function() {
       setIframeHeight(document.getElementById('syllabus'));
+  };
+</script>
+
+## Meet the Speakers
+<iframe id="speakers" src="/s22_speakers" width="100%" height="100" frameborder=0> </iframe>
+
+<script>
+  function setIframeHeight(iframe) {
+    if (iframe) {
+        var iframeWin = iframe.contentWindow || iframe.contentDocument.parentWindow;
+        if (iframeWin.document.body) {
+            iframe.height = iframeWin.document.documentElement.scrollHeight || iframeWin.document.body.scrollHeight;
+        }
+    }
+  };
+
+  window.onload = function() {
+      setIframeHeight(document.getElementById('speakers'));
   };
 </script>
 
@@ -149,22 +167,3 @@ The course will consist of invited talks by a range of experts and related discu
   <li>Decentralized intelligence, Decentralized Data Science, Data DAO for public good</li>
   <li>Responsible innovation and regulation in decentralized systems</li>
 </ul>
-
-## Meet the Speakers
-<iframe id="speakers" src="/s22_speakers" width="100%" height="100" frameborder=0> </iframe>
-
-<script>
-  function setIframeHeight(iframe) {
-    if (iframe) {
-        var iframeWin = iframe.contentWindow || iframe.contentDocument.parentWindow;
-        if (iframeWin.document.body) {
-            iframe.height = iframeWin.document.documentElement.scrollHeight || iframeWin.document.body.scrollHeight;
-        }
-    }
-  };
-
-  window.onload = function() {
-      setIframeHeight(document.getElementById('speakers'));
-  };
-</script>
-

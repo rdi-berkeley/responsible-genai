@@ -111,7 +111,8 @@
   lectures:   
     - date: 03/31
       topic:
-        title: CBDC & DeFi
+        title: CBDC & DeFi Panel
+        speaker: Michael Warner, Neha Narula, Robert Hockett, and Ehud Shapiro
     - date: 04/07
       topic:
         title: NFT, GameFi, Metaverse
