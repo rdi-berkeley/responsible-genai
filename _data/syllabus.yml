@@ -113,9 +113,17 @@
       topic:
         title: CBDC & DeFi Panel
         speaker: Michael Warner, Neha Narula, Robert Hockett, and Ehud Shapiro
+      reading:
+        - name: Self-Sovereign Personal Cryptocurrencies
+          link: https://arxiv.org/abs/2202.05619
+        - name: Foundations for Grassroots Democratic Metaverse
+          link: https://arxiv.org/abs/2203.04090
+        - name: Multiagent Transition Systems with Faults
+          link: https://arxiv.org/abs/2112.13650
     - date: 04/07
       topic:
         title: NFT, GameFi, Metaverse
+        speaker: David Min
     - date: 04/14
       topic:
         title: Decentralized governance, DAO
