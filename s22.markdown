@@ -131,6 +131,12 @@ The project proposal will be submitted via the Google form linked above, and sho
 
 The PDF you submit should be 2-3 pages in length (not including references), and be in Latex, with a two-column format following the Usenix style guide. Your proposal should include the sections outlined in <a href="https://docs.google.com/document/d/1orZuTZ6v0KKi-TmjPo19YURe91iC0230bb56Y1ZAytc/edit?usp=sharing">this document</a>, and address all the questions included in the document. 
 
+### Project milestone guidelines (Milestone due 04/14 <a href="https://forms.gle/PvX2W7ApK57Z9hAS9">here</a>; submit one form per group)
+The project milestone will be submitted via Google form (linked above), and should (1) provide an overview of your problem statement; (2) explain the progress you have made towards project completion, including any unexpectedly easy or difficult tasks you have encountered, and resulting changes in timeline; (3) identify any challenges you foresee in the remainder of the project, and (4) include early results and explain how they relate to your expectations or hypothesis. Please list these as explicit sections in the report.
+
+Requirements: The PDF should be at least 2 pages and not more than 5 pages in length (not including references), and be in Latex, with a two-column format following the Usenix style guide. Your proposal should include the sections outlined in this document, and address all the questions included in <a href="https://docs.google.com/document/d/1pEH2SPP2EZLX-h7CU_dQtgoZ2XVuyT5Elzzr5K3jsjs/edit?usp=sharing">this document</a>.
+
+
 ## Grading
 Students taking the course for 1 unit will be graded on participation only.
 
