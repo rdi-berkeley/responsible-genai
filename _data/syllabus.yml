@@ -103,7 +103,7 @@
     - date: 03/17
       topic:
         title: Cryptoeconomics and mechanisms design for decentralized systems
-        speaker: Arthur Breitman
+        speaker: Arthur Breitman (Tezos)
     - date: 03/24
       topic:
         title: No Class (Spring Break)
@@ -112,7 +112,7 @@
     - date: 03/31
       topic:
         title: CBDC & DeFi Panel
-        speaker: Michael Warner, Neha Narula, Robert Hockett, and Ehud Shapiro
+        speaker: Michael Warner (Federal Reserve), Neha Narula (MIT Media Lab), Robert Hockett (Cornell Law), and Ehud Shapiro (Weizmann Institute)
       reading:
         - name: Self-Sovereign Personal Cryptocurrencies
           link: https://arxiv.org/abs/2202.05619
@@ -120,13 +120,20 @@
           link: https://arxiv.org/abs/2203.04090
         - name: Multiagent Transition Systems with Faults
           link: https://arxiv.org/abs/2112.13650
+        - name: Money and Payments: The U.S. Dollar in the Age of Digital Transformation 
+          link: https://www.federalreserve.gov/publications/files/money-and-payments-20220120.pdf
+        - name: "CBDC Navigator - 219 reports on Central Bank Digital Currency (2021)"
+          link: https://mindsmith.io/en/cbdc-navigator/
+        - name: "Satori: Toward a Global Augmented Intelligence Architecture"
+          link: https://www.researchgate.net/publication/332134711_Satori_Toward_a_Global_Augmented_Intelligence_Architecture
     - date: 04/07
       topic:
         title: NFT, GameFi, Metaverse
-        speaker: David Min
+        speaker: David Min (Disney)
     - date: 04/14
       topic:
         title: Decentralized governance, DAO
+        speaker: Jon Allen
     - date: 04/21
       topic:
         title: Decentralized intelligence, Decentralized data science, Data DAO for public good
