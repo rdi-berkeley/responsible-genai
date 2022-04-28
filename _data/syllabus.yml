@@ -120,7 +120,7 @@
           link: https://arxiv.org/abs/2203.04090
         - name: Multiagent Transition Systems with Faults
           link: https://arxiv.org/abs/2112.13650
-        - name: Money and Payments: The U.S. Dollar in the Age of Digital Transformation 
+        - name: "Money and Payments: The U.S. Dollar in the Age of Digital Transformation" 
           link: https://www.federalreserve.gov/publications/files/money-and-payments-20220120.pdf
         - name: "CBDC Navigator - 219 reports on Central Bank Digital Currency (2021)"
           link: https://mindsmith.io/en/cbdc-navigator/
@@ -134,9 +134,19 @@
       topic:
         title: Decentralized governance, DAO
         speaker: Jon Allen
+        slides:
+          - name: "DAO 101"
+            file: dao101.pdf
     - date: 04/21
       topic:
-        title: Decentralized intelligence, Decentralized data science, Data DAO for public good
+        title: Decentralized Knowledge graphs
+        speaker: Denny Vrandecic
     - date: 04/28
       topic:
         title: Responsible innovation and regulation in decentralized systems
+        speaker: Alex Feerst
+      reading: 
+        - name: Ethics in Tech Practice
+          file: Ethics-Toolkit.pdf
+        - name: web3 blog post
+          link: https://moxie.org/2022/01/07/web3-first-impressions.html 
