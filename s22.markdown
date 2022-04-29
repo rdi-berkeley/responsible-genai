@@ -136,6 +136,19 @@ The project milestone will be submitted via Google form (linked above), and shou
 
 Requirements: The PDF should be at least 2 pages and not more than 5 pages in length (not including references), and be in Latex, with a two-column format following the Usenix style guide. Your proposal should include the sections outlined in this document, and address all the questions included in <a href="https://docs.google.com/document/d/1pEH2SPP2EZLX-h7CU_dQtgoZ2XVuyT5Elzzr5K3jsjs/edit?usp=sharing">this document</a>.
 
+### Project presentation guidelines (Presentation due 05/05; submit one <a href="https://forms.gle/SZ82ZYebUC5iybvs8">project presentation submission form</a> per group)
+Your task is to prepare a short (up to 3 minutes) "elevator pitch" style presentation of your project and record your team giving the presentation. We recommend that you spend about 1 minute introducing the problem and related work, 1 minute describing your project and approach, and 1 minute summarizing the evaluation and key results. Please upload your recording as an MP4 file and your slides as a PDF file.
+ 
+We are providing a <a href="https://docs.google.com/presentation/d/1nhaRxJZRTtCRTk6vhHWqrbiuB5B1fsKzl9dC8u3qsik/edit?usp=sharing">Google Slides template</a> that you can optionally use. 
+
+If you don't use this template, please make sure you include all of the required sections.
+
+### Project final report guidelines (Report due 05/15; submit one <a href="https://forms.gle/rXqTShxjhgEcWJd76">final report submission form</a> per group)
+Produce a workshop-style paper summarizing your project and include (at a minimum) the sections outlined in the template below, and submit a PDF of this writeup. Your report can be up to 6 pages in length, not counting appendices or references. With additional appendix and references as needed, the total maximum length permitted is 10 pages. The report should be written in Latex, with a two-column format following the Usenix style guide. If your report is longer than 6 pages, the teaching staff may only read the first 6 pages, so appendix material should be supplementary rather than central to understanding and evaluating your report. Your report should include the sections outlined in the template and address all the questions included in the template. You may reuse portions of your literature review when writing the literature review section of your report. 
+
+Note: While there is no lower limit on the length of the report, please remember that you will also be graded on how thorough, thoughtful, and detailed your responses are. You should have as complete an explanation as possible of your approach, implementation, and evaluation for full credit.
+
+<a href="https://docs.google.com/document/d/1iskxATDzk7fjMH3LHTIRbLFGI430A0m0ILc_F0tc8M8/edit?usp=sharing">Template</a> (make sure to include all required sections and thoroughly answer all questions in each section for full credit). 
 
 ## Grading
 Students taking the course for 1 unit will be graded on participation only.
