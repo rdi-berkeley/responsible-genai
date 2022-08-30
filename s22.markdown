@@ -14,8 +14,8 @@ redirect_from:
 <table style="table-layout: fixed; font-size: 88%; align: middle; text-align: center; border-collapse: collapse">
   <thead>
     <tr>
-     <th style="width: 40%;"><img style="object-fit:cover" width=200 height=200 src="/assets/nacrooks_prof_pic.jpeg" alt="Natacha Crooks"></th>
-     <th style="width: 40%;"><img style="object-fit:cover" width=200 height=200 src="/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
+     <th style="width: 40%;"><img style="object-fit:cover" width=200 height=200 src="./assets/nacrooks_prof_pic.jpeg" alt="Natacha Crooks"></th>
+     <th style="width: 40%;"><img style="object-fit:cover" width=200 height=200 src="./assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
     </tr>
   </thead>
   <tbody>
@@ -36,7 +36,7 @@ redirect_from:
 
 ## Logistics
 Lecture: 10 am to noon PT Thursday in Soda 310 and on Zoom (see link below).
-[Zoom link](https://berkeley.zoom.us/j/98158813317) [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/98158813317) for the class (password: 477371)
+[Zoom link](https://berkeley.zoom.us/j/98158813317) [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/98158813317) for the class (password: 477371)
 
 To get future announcements about the course and guest lectures, please join <a href="https://groups.google.com/g/berkeley-rdi">the mailing list</a>.
 
@@ -52,7 +52,7 @@ All times are in PST. Office hours begin <b>February 18, 2022</b>.
 
 | Samyu Yagati (TA/GSI) | 2-3 PM Thursday | 283H Soda Hall |
 | Natacha Crooks (Professor) | 9-10 AM Friday  | 723 Soda Hall |
-| Dawn Song (Professor) | 4:30-5 PM Wednesday | [Zoom link](https://berkeley.zoom.us/j/3665214895)[_<img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/>_](https://berkeley.zoom.us/j/3665214895) |
+| Dawn Song (Professor) | 4:30-5 PM Wednesday | [Zoom link](https://berkeley.zoom.us/j/3665214895)[_<img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/>_](https://berkeley.zoom.us/j/3665214895) |
 
 <!--| Dawn Song (Professor) | 05:00pm-05:30pm Wed | [Zoom link](https://berkeley.zoom.us/j/93029293682?pwd%3DOVBybGhMYVBCTEJUelNyRm5SdHZuZz09&sa=D&source=calendar&usg=AOvVaw1DYoPVsE2MYIbUQwxzojdD) (ID: 93029293682, Passcode: 5q47hS3N) |
 | Xiaoyuan Liu (TA/GSI) | 12:30pm-01:30pm Thu | [Zoom link](https://berkeley.zoom.us/j/94026140944?pwd=blcxeE5DZmNHWWdDN0RxS2RpdEQvdz09) |
@@ -75,7 +75,7 @@ This is a variable-unit course. The requirements for each number of units are li
 -->
 
 ## Syllabus (subject to change)
-<iframe id="syllabus" src="/s22_syllabus" width="100%" height="1950" frameborder=0> </iframe>
+<iframe id="syllabus" src="./s22_syllabus" width="100%" height="1950" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {
@@ -93,7 +93,7 @@ This is a variable-unit course. The requirements for each number of units are li
 </script>
 
 ## Meet the Speakers
-<iframe id="speakers" src="/s22_speakers" width="100%" height="1800" frameborder=0> </iframe>
+<iframe id="speakers" src="./s22_speakers" width="100%" height="1800" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {
