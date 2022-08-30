@@ -13,7 +13,7 @@ permalink: /s22_speakers
     {% for row in site.data.speakers %}
       <tr>
         {% if row.picture %}
-          <td style="text-align:center"><img style="object-fit:cover" width=200 height=200 src="/assets/{{ row.picture }}" alt={{ row.name }}> <b>{{ row.name }}</b> </td>
+          <td style="text-align:center"><img style="object-fit:cover" width=200 height=200 src="./assets/{{ row.picture }}" alt={{ row.name }}> <b>{{ row.name }}</b> </td>
         {% else %} 
           <td> <b>{{ row.name }}</b> </td>      
         {% endif %}
