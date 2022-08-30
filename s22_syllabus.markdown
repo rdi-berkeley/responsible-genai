@@ -27,7 +27,7 @@ permalink: /s22_syllabus
               <ul style="margin-bottom: 0;">
                 {% for s in lec.topic.slides %}
                   {% if s.file %}
-                    <li> <a target="_parent" href="https://berkeley-desys.github.io/assets/material/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
+                    <li> <a target="_parent" href="./assets/material/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
                   {% else %}
                     <li> <a target="_parent" href="{{s.link}}" style="font-size: 80%;"> Slides: {{s.name}} </a> </li>
                   {% endif %}
@@ -40,7 +40,7 @@ permalink: /s22_syllabus
             <ul style="margin-bottom: 0;">
               {% for r in lec.reading %}
                 {% if r.file %}
-                  {% assign reading_link = 'https://berkeley-desys.github.io/assets/material/' | append: r.file %}
+                  {% assign reading_link = './assets/material/' | append: r.file %}
                 {% endif %}
                 {% if r.link %}
                   {% assign reading_link = r.link %}
