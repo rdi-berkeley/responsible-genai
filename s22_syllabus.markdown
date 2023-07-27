@@ -11,7 +11,7 @@ permalink: /s22_syllabus
       <th style="width: 40%;"> Recommended Reading </th>
   </thead>
   <tbody>
-    {% for row in site.data.syllabus %}
+    {% for row in site.data.new_syllabus %}
     <tr>
       <th id="par" colspan="3" scope="colgroup"> {{ row.module }} </th>
     </tr>

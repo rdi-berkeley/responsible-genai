@@ -10,7 +10,7 @@ permalink: /s22_speakers
       <th style="width: 70%;"> Brief Bio </th>
   </thead>
   <tbody>
-    {% for row in site.data.speakers %}
+    {% for row in site.data.new_speakers %}
       <tr>
         {% if row.picture %}
           <td style="text-align:center"><img style="object-fit:cover" width=200 height=200 src="./assets/{{ row.picture }}" alt={{ row.name }}> <b>{{ row.name }}</b> </td>
