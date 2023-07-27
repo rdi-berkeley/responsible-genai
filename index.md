@@ -53,7 +53,7 @@ The course will consist of invited talks by a range of experts and related discu
 </ul> -->
 
 ## Logistics
-Lecture: 16 pm to 17:59 pm PT Tuesday in Soda 306.
+Lecture: 4-6pm PT Tuesday in Physics Building 1.
 <!-- [Zoom link](https://berkeley.zoom.us/j/98158813317) [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/98158813317) for the class (password: 477371) -->
 
 To get future announcements about the course and guest lectures, please join <a href="https://groups.google.com/g/berkeley-rdi">the mailing list</a>.
