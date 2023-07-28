@@ -1,199 +1,88 @@
 ---
 layout: default
-title: "CS294/194-196 Responsible Decentralized Intelligence"
+title: "CS294/194-196 Responsible GenAI and Decentralized Intelligence"
 permalink: /s22
 redirect_from:
   - /
 ---
 
-<!-- # Responsible Decentralized Intelligence -->
+<!-- # Responsible GenAI and Decentralized Intelligence -->
 
 # CS294/194-196:  Special Topics on Science and Technology of Decentralization and Decentralized Intelligence
-## Instructors
 
-<table style="table-layout: fixed; font-size: 88%; align: middle; text-align: center; border-collapse: collapse">
-  <thead>
-    <tr>
-     <!-- <th style="width: 40%;"><img style="object-fit:cover" width=200 height=200 src="./assets/nacrooks_prof_pic.jpeg" alt="Natacha Crooks"></th> -->
-     <th style="width: 40%;"><img style="object-fit:cover" width=200 height=200 src="./assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <!-- <td><a href="https://nacrooks.github.io/">Natacha Crooks</a></td> -->
-      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
-    </tr>
-    <tr>
-      <!-- <td>UC Berkeley</td> -->
-      <td>UC Berkeley</td>
-    </tr>
-  </tbody>
-</table>
+## Course staff
+Instructor: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a>
 
-## TAs
-
-<a href="mailto:yu_gai@berkeley.edu">Yu Gai</a>
+GSI: <a href="mailto:yu_gai@berkeley.edu">Yu Gai</a>
 
 ## Course Description
-TBA
+Generative AI and foundational models including ChatGPT have ushered the world into a new era with rich new capabilities for wide-ranging application domains. With these new capabilities also comes unprecedented challenges such as privacy, safety, ethics, alignment, and decentralization. In this class, we will introduce foundations of Large Language Models (LLMs), discuss the infrastructure, tooling, and best practices for building and running applications with LLMs, and explore the risks and challenges with these technologies and how we can build towards a responsible and democratized and decentralized future with AI. In particular, this class will cover a wide-ranging topics including:
 
-<!-- Decentralized trust has many advantages, including providing stronger security guarantees, enabling open access and participation, and providing transparency. Decentralized systems, such as blockchain, enable decentralized trust and empower new economies such as Decentralized Finance, the Creator Economy, and Data Sovereignty. In the future, programmable, decentralized systems can enable autonomous agents and organizations to operate effectively with decentralized trust, empowering decentralized intelligence.
-
-Our goal is to provide a framework for students to understand this new space of decentralized systems, from a technology, economic, and a policy perspective, and become familiar with open research challenges in the area. We will explore the foundations and applications of decentralization technology and decentralized intelligence. 
-
-The course will consist of invited talks by a range of experts and related discussions. We will cover a variety of topics and current open research challenges and state-of-the-art techniques in a wide spectrum of areas, including:
-
-<ul>
-  <li>Foundations for next generation decentralization technologies: scalability, usability, provable guarantees, auditable privacy, etc.</li>
-  <li>Cryptoeconomics and mechanisms design for decentralized systems </li> 
-  <li>Decentralized Finance and Central Bank Digital Currency (CBDC) </li> 
-  <li>Decentralized governance, organization </li> 
-  <li>Decentralized intelligence, Decentralized Data Science, Data DAO for public good</li>
-  <li>Responsible innovation and regulation in decentralized systems</li>
-</ul> -->
-
-## Logistics
-Lecture: 4-6pm PT Tuesday in Physics Building 1.
-<!-- [Zoom link](https://berkeley.zoom.us/j/98158813317) [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/98158813317) for the class (password: 477371) -->
-
-To get future announcements about the course and guest lectures, please join <a href="https://groups.google.com/g/berkeley-rdi">the mailing list</a>.
-
-<!-- The class will be in hybrid format. We expect in-person or online attendance and require each student to ask 3 questions to speakers over the course of the semester. If you have a time conflict with another class, please contact the instructors on EdStem for an exception. Zoom lectures will be open to the public. -->
-
-- For general course content related questions, please join our [edstem](https://edstem.org/us/courses/16163/discussion/).
-<!--and [discord](https://discord.gg/3yFqmRjZDA. - <span style="color: red;">-->
-- <b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b>
-
-
-## Office Hours
-TBA
-
-<!-- All times are in PST. Office hours begin <b>February 18, 2022</b>.
-
-| Yu Gai (TA/GSI) | 2-3 PM Thursday | 283H Soda Hall |
-| Dawn Song (Professor) | 4:30-5 PM Wednesday | [Zoom link](https://berkeley.zoom.us/j/3665214895)[_<img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/>_](https://berkeley.zoom.us/j/3665214895) | -->
-
-<!--| Dawn Song (Professor) | 05:00pm-05:30pm Wed | [Zoom link](https://berkeley.zoom.us/j/93029293682?pwd%3DOVBybGhMYVBCTEJUelNyRm5SdHZuZz09&sa=D&source=calendar&usg=AOvVaw1DYoPVsE2MYIbUQwxzojdD) (ID: 93029293682, Passcode: 5q47hS3N) |
-| Xiaoyuan Liu (TA/GSI) | 12:30pm-01:30pm Thu | [Zoom link](https://berkeley.zoom.us/j/94026140944?pwd=blcxeE5DZmNHWWdDN0RxS2RpdEQvdz09) |
-| Neil Giridharan (TA/GSI) | 03:00pm-04:00pm Fri | [Zoom link](https://berkeley.zoom.us/j/5432961734) |
--->
-
-## Enrollment and Participation
-Graduate students should enroll in CS294-196. Undergraduates should enroll in CS194-196.
- 
-This is a variable-unit course. The requirements for each number of units are listed below.
-<ul>
-  <li>1 unit: attend lectures (graded on participation only)</li>
-  <li>2 units: attend lectures + complete a class project with a report</li>
-  <li>3 units: attend lectures + complete a class project that includes significant implementation + project report</li>
-  <li>4 units (requires instructor approval): attend lectures + complete a class project that includes very significant implementation/intellectual contribution + project report</li>
-</ul>
-
-
-<!--For graduate students, please register for CS294-177; for undergraduate students, please register for CS194-177. Please join our [edstem](https://edstem.org/us/courses/7861/discussion/).
--->
+- Foundations of LLMs
+- Tech stack for building LLM applications
+- Sample applications domains including code generation, data science, computer security, etc.
+- Autonomous agents
+- Trustworthy LLM, including trustworthiness evaluation & benchmarks, privacy issues in LLM, attacks on LLMs such as prompt injection
+- Decentralized ML including decentralized training, federated learning, open source models, edge inference
+- Decentralized decision making and decentralized society
 
 ## Syllabus (subject to change)
-TBA
 
-<!-- <iframe id="syllabus" src="./s22_syllabus" width="100%" height="1950" frameborder=0> </iframe>
-
-<script>
-  function setIframeHeight(iframe) {
-    if (iframe) {
-        var iframeWin = iframe.contentWindow || iframe.contentDocument.parentWindow;
-        if (iframeWin.document.body) {
-            iframe.height = iframeWin.document.documentElement.scrollHeight || iframeWin.document.body.scrollHeight;
-        }
-    }
-  };
-
-  window.onload = function() {
-      setIframeHeight(document.getElementById('syllabus'));
-  };
-</script> -->
+| Date   | Topic                                                                                 |
+|--------|---------------------------------------------------------------------------------------|
+| Aug 29 | No class                                                                              |
+| Sep 5  | Intro & Foundations of LLM                                                            |
+| Sep 12 | Infrastructure Layer I: Training and Inference, Performance Optimization, Scalability |
+| Sep 19 | Infrastructure Layer II: Retrieval, Vector Databases, Search                          |
+| Sep 26 | App Development Layer: Prompt Engineering, Chains, Tools                              |
+| Oct 3  | Application Domains I: Software Engineering/Code Generation, Data Science             |
+| Oct 10 | Application Domains II: Security, Education                                           |
+| Oct 17 | Agents: RPA, Virtual Assistants                                                       |
+| Oct 24 | Trustworthiness: Privacy, Hallucinations, Adversarial Attacks                         |
+| Oct 31 | Decentralized Training and Inference, Open-Source Models                              |
+| Nov 7  | Decentralized Decision Making                                                         |
+| Nov 14 | Ethics and Fairness, Safety, Alignment                                                |
+| Nov 21 | Project Check-in, Best Practices                                                      |
+| Nov 28 | Project Demos                                                                         |
 
 ## Meet the Speakers
 TBA
 
-<!-- <iframe id="speakers" src="./s22_speakers" width="100%" height="1800" frameborder=0> </iframe>
-
-<script>
-  function setIframeHeight(iframe) {
-    if (iframe) {
-        var iframeWin = iframe.contentWindow || iframe.contentDocument.parentWindow;
-        if (iframeWin.document.body) {
-            iframe.height = iframeWin.document.documentElement.scrollHeight || iframeWin.document.body.scrollHeight;
-        }
-    }
-  };
-
-  window.onload = function() {
-      setIframeHeight(document.getElementById('speakers'));
-  };
-</script>
- -->
-
-## Project
-TBA
-
-<!-- Students taking the course for 2 or more units of credit will complete an open-ended research project, which they will present both in the form of an oral presentation and a course report in workshop paper format. You will choose an area of decentralized systems to explore and read related literature in that area. Then, you will choose a problem in that space and either build a system (taking the class for 3 units of credit requires a project that involves significant implementation, and taking it for 4 units requires both significant implementation and intellectual contribution) or conduct an experiment to contribute to the solution or exploration of the problem you identified.
-
-Students are welcome to choose their own topics. We will also provide a list of project ideas for inspiration. Group sizes should be 3-4 students (all taking the course for the same number of units); please post on EdStem to request approval for other group sizes.
-
-### Project Ideas
-A list of possible project ideas can be found <a href="https://docs.google.com/presentation/d/1TJ2NRyjLEc25t1pPbdL5oNYjfXKWQD5Th9EDiUvzvWk/edit?usp=sharing">here</a>. Students may also choose to work on their own project ideas. 
-
-More information on the project can be found <a href="https://docs.google.com/presentation/d/1ZvM3z3k6qG_VLyrlKixvtgvhiAotmADaYsWEdfvT_Gc/edit?usp=sharing">here</a>.
-
-### Literature review guidelines (Review due 2/28 <a href="https://forms.gle/wzvBmjnu6UGZWcLY6">here</a>; submit one form per group)
-The literature review should be 3-5 pages in length (Latex, two-column following the Usenix style guide). The write-up should include a short introduction/abstract explaining the problem space you are planning to study in your course project. The review should give the reader (1) an overview of related work, especially what has already been done in the space you’re exploring, and (2) be as comprehensive as possible in terms of covering the space. Please focus on classifying and relating works to each other rather than simply providing a list of paper summaries.
-
-### Project proposal guidelines (Proposal due 3/10 <a href="https://forms.gle/CwXPpPnwXYtuftJ76">here</a>; submit one form per group)
-Students registered for 2-4 units will be completing an open-ended project culminating in a presentation and a workshop-style paper submitted at the end of the semester. In the broader area of research in decentralized systems that you wish to explore and submitted a literature review on, you should identify an area that you believe needs improvement or merits further research. You will then build a system and/or conduct experiments to further the state of the art within your chosen field.
-
-The project proposal will be submitted via the Google form linked above, and should explain the area you are exploring, what your chosen problem is, why it is interesting (ideally from a research perspective; if you are taking the course for 4 units, you must explain why the problem is interesting from a research perspective), what your planned approach is, and why and to what extent you think it will solve the problem. 
-
-The PDF you submit should be 2-3 pages in length (not including references), and be in Latex, with a two-column format following the Usenix style guide. Your proposal should include the sections outlined in <a href="https://docs.google.com/document/d/1orZuTZ6v0KKi-TmjPo19YURe91iC0230bb56Y1ZAytc/edit?usp=sharing">this document</a>, and address all the questions included in the document. 
-
-### Project milestone guidelines (Milestone due 04/14 <a href="https://forms.gle/PvX2W7ApK57Z9hAS9">here</a>; submit one form per group)
-The project milestone will be submitted via Google form (linked above), and should (1) provide an overview of your problem statement; (2) explain the progress you have made towards project completion, including any unexpectedly easy or difficult tasks you have encountered, and resulting changes in timeline; (3) identify any challenges you foresee in the remainder of the project, and (4) include early results and explain how they relate to your expectations or hypothesis. Please list these as explicit sections in the report.
-
-Requirements: The PDF should be at least 2 pages and not more than 5 pages in length (not including references), and be in Latex, with a two-column format following the Usenix style guide. Your proposal should include the sections outlined in this document, and address all the questions included in <a href="https://docs.google.com/document/d/1pEH2SPP2EZLX-h7CU_dQtgoZ2XVuyT5Elzzr5K3jsjs/edit?usp=sharing">this document</a>.
-
-### Project presentation guidelines (Presentation due 05/05; submit one <a href="https://forms.gle/SZ82ZYebUC5iybvs8">project presentation submission form</a> per group)
-Your task is to prepare a short (up to 3 minutes) "elevator pitch" style presentation of your project and record your team giving the presentation. We recommend that you spend about 1 minute introducing the problem and related work, 1 minute describing your project and approach, and 1 minute summarizing the evaluation and key results. Please upload your recording as an MP4 file and your slides as a PDF file.
+## Enrollment and grading
+Graduate students should enroll in CS294-196. Undergraduates should enroll in CS194-196.
  
-We are providing a <a href="https://docs.google.com/presentation/d/1nhaRxJZRTtCRTk6vhHWqrbiuB5B1fsKzl9dC8u3qsik/edit?usp=sharing">Google Slides template</a> that you can optionally use. 
+This is a variable-unit course. The grade breakdowns for students enrolled in different units are the following:
 
-If you don't use this template, please make sure you include all of the required sections.
+|                              | 1 unit | 2 units | 3/4 units |
+|------------------------------|--------|---------|-----------|
+| Participation                | 80%    | 20%     | 10%       |
+| Lab                          | 20%    | 20%     | 10%       |
+| Project                      |        |         |           |
+| &nbsp;&nbsp;*Proposal*       |        | 10%     | 10%       |
+| &nbsp;&nbsp;*Milestone*      |        | 10%     | 10%       |
+| &nbsp;&nbsp;*Presentation*   |        | 25%     | 25%       |
+| &nbsp;&nbsp;*Report*         |        | 15%     | 15%       |
+| &nbsp;&nbsp;*Implementation* |        |         | 20%       |
 
-### Project final report guidelines (Report due 05/15; submit one <a href="https://forms.gle/rXqTShxjhgEcWJd76">final report submission form</a> per group)
-Produce a workshop-style paper summarizing your project and include (at a minimum) the sections outlined in the template below, and submit a PDF of this writeup. Your report can be up to 6 pages in length, not counting appendices or references. With additional appendix and references as needed, the total maximum length permitted is 10 pages. The report should be written in Latex, with a two-column format following the Usenix style guide. If your report is longer than 6 pages, the teaching staff may only read the first 6 pages, so appendix material should be supplementary rather than central to understanding and evaluating your report. Your report should include the sections outlined in the template and address all the questions included in the template. You may reuse portions of your literature review when writing the literature review section of your report. 
+## Lab and project timeline
 
-Note: While there is no lower limit on the length of the report, please remember that you will also be graded on how thorough, thoughtful, and detailed your responses are. You should have as complete an explanation as possible of your approach, implementation, and evaluation for full credit.
+|                         | Released | Due    |
+|-------------------------|----------|--------|
+| Project group formation | Sep 5    | Sep 19 |
+| Project proposal        | Sep 12   | Oct 3  |
+| Lab                     | Sep 19   | Oct 17 |
+| Project milestone       | Oct 3    | Oct 31 |
+| Project presentation    | Oct 31   | Nov 28 |
+| Project final report    | Oct 31   | Dec 12 |
 
-<a href="https://docs.google.com/document/d/1iskxATDzk7fjMH3LHTIRbLFGI430A0m0ILc_F0tc8M8/edit?usp=sharing">Template</a> (make sure to include all required sections and thoroughly answer all questions in each section for full credit).  -->
 
-## Grading
+## Logistics
+Lecture: 4-6pm PT Tuesday in <a href="https://rtl.berkeley.edu/classroom-database/physics-0001">Physics Building 1</a>. (Click <a href="https://www.reddit.com/r/berkeley/comments/p8w9ih/physics_building_1_vs_2_vs_3_vs_4/">here</a> if you cannot find the classroom)
+
+To get future announcements about the course and guest lectures, please join <a href="https://groups.google.com/g/berkeley-rdi">the mailing list</a>.
+
+- For general course content related questions, please join our [edstem](https://edstem.org/us/courses/16163/discussion/).
+- <b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b>
+
+## Office Hours
 TBA
-
-<!-- Students taking the course for 1 unit will be graded on participation only.
-
-Students taking the course for 2 or more units will be graded as follows:
-
-| Class participation | 10% |
-| Literature review | 10% |
-| Project proposal | 15% |
-| Project milestone | 15% |
-| Project presentation and final report | 50% |
- -->
-
-<!-- ### Timeline
-
-| Group formation | 02/10 |
-| Literature review | 02/28 |
-| Project proposal | 03/10 |
-| Project milestone | 04/14 |
-| Project presentation | 05/05 |
-| Project final report | 05/15 | -->
