@@ -45,8 +45,9 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 | Nov 21 | Project Check-in, Best Practices                                                      |
 | Nov 28 | Project Demos                                                                         |
 
-## Meet the Speakers
+<!-- ## Meet the Speakers
 TBA
+ -->
 
 ## Enrollment and grading
 Graduate students should enroll in CS294-196. Undergraduates should enroll in CS194-196.
