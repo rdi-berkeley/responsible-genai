@@ -80,7 +80,7 @@ This is a variable-unit course. The grade breakdowns for students enrolled in di
 ## Logistics
 Lecture: 4-6pm PT Tuesday in <a href="https://rtl.berkeley.edu/classroom-database/physics-0001">Physics Building 1</a>. (Click <a href="https://www.reddit.com/r/berkeley/comments/p8w9ih/physics_building_1_vs_2_vs_3_vs_4/">here</a> if you cannot find the classroom)
 
-To get future announcements about the course and guest lectures, please join <a href="https://groups.google.com/g/berkeley-rdi">the mailing list</a>.
+<!-- To get future announcements about the course and guest lectures, please join <a href="https://groups.google.com/g/berkeley-rdi">the mailing list</a>. -->
 
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/16163/discussion/).
 - <b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b>
