@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "CS294/194-196 Responsible GenAI and Decentralized Intelligence"
-permalink: /s22
+permalink: /f23
 redirect_from:
   - /
 ---
