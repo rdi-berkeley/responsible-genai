@@ -8,7 +8,7 @@ redirect_from:
 
 <!-- # Responsible GenAI and Decentralized Intelligence -->
 
-# CS294/194-196:  Special Topics on Science and Technology of Decentralization and Decentralized Intelligence
+<!-- # CS294/194-196:  Special Topics on Science and Technology of Decentralization and Decentralized Intelligence -->
 
 ## Course staff
 Instructor: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a>
