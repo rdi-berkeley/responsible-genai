@@ -50,13 +50,14 @@ TBA
  -->
 
 ## Enrollment and grading
-Students are strongly encouraged to have had experience and basic understanding of Machine Learning and Deep Learning before taking this class, e.g., have taken courses such as CS188 and CS189.
+Students are strongly encouraged to have had experience and basic understanding of Machine Learning and Deep Learning before taking this class, e.g., have taken courses such as CS182, CS188, and CS189.
 Graduate students should enroll in CS294-196. Undergraduate students should enroll in CS194-196.
  
 This is a variable-unit course.
 All enrolled students are expected to participate in lectures and complete a lab assignment.
 Students enrolling in more than one units are in addition expected to complete a project.
-The project of students enrolling in 3 or 4 units are expected to have a significant implementation (coding) component, while the project of students enrolling in 2 units can be a literature survey.
+The project of students enrolling in 2 units should have a written report, which can be a survey in a certain area related to LLMs.
+The project of students enrolling in 3 units should also have an implementation (coding) component that programmatically interacts with LLMs, and the project of students enrolling in 4 units should have a very significant implementation component with the potential for either real world impacts or intellectural contributions.
 The grade breakdowns for students enrolled in different units are the following:
 
 |                              | 1 unit | 2 units | 3/4 units |
@@ -87,7 +88,7 @@ Lecture: 4-6pm PT Tuesday in <a href="https://rtl.berkeley.edu/classroom-databas
 
 <!-- To get future announcements about the course and guest lectures, please join <a href="https://groups.google.com/g/berkeley-rdi">the mailing list</a>. -->
 
-- For general course content related questions, please join our [edstem](https://edstem.org/us/courses/16163/discussion/).
+- For general course content related questions, please join our [edstem](https://edstem.org/us/courses/41945/discussion/).
 - <b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b>
 
 ## Office Hours
