@@ -10,6 +10,8 @@ redirect_from:
 
 <!-- # CS294/194-196:  Special Topics on Science and Technology of Decentralization and Decentralized Intelligence -->
 
+***If you are not able to enroll in the class, please fill out the <a href="https://forms.gle/i7d4rryctc3JN4cC9">signup form</a> and we will get back to you as soon as possible.***
+
 ## Course staff
 Instructor: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a>
 
@@ -52,6 +54,8 @@ TBA
 ## Enrollment and grading
 Students are strongly encouraged to have had experience and basic understanding of Machine Learning and Deep Learning before taking this class, e.g., have taken courses such as CS182, CS188, and CS189.
 Graduate students should enroll in CS294-196. Undergraduate students should enroll in CS194-196.
+
+***If you are not able to enroll in the class, please fill out the <a href="https://forms.gle/i7d4rryctc3JN4cC9">signup form</a> and we will get back to you as soon as possible.***
  
 This is a variable-unit course.
 All enrolled students are expected to participate in lectures and complete a lab assignment.
