@@ -15,6 +15,8 @@ redirect_from:
 ## Course staff
 Instructor: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a>
 
+Co-instructor: <a href="https://people.eecs.berkeley.edu/~matei/">Prof. Matei Zaharia</a>
+
 GSI: <a href="mailto:yu_gai@berkeley.edu">Yu Gai</a>
 
 ## Course Description
@@ -44,7 +46,7 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 | Oct 31 | Decentralized Training and Inference, Open-Source Models                              |
 | Nov 7  | Decentralized Decision Making                                                         |
 | Nov 14 | Ethics and Fairness, Safety, Alignment                                                |
-| Nov 21 | Project Check-in, Best Practices                                                      |
+| Nov 21 | Edge compute; Federated learning                                                      |
 | Nov 28 | Project Demos                                                                         |
 
 <!-- ## Meet the Speakers
