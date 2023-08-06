@@ -21,14 +21,13 @@ GSI: <a href="mailto:yu_gai@berkeley.edu">Yu Gai</a>
 
 ## Course Description
 Generative AI and foundational models including ChatGPT have ushered the world into a new era with rich new capabilities for wide-ranging application domains. With these new capabilities also comes unprecedented challenges such as privacy, safety, ethics, alignment, and decentralization. In this class, we will introduce foundations of Large Language Models (LLMs), discuss the infrastructure, tooling, and best practices for building and running applications with LLMs, and explore the risks and challenges with these technologies and how we can build towards a responsible and democratized and decentralized future with AI. In particular, this class will cover a wide-ranging topics including:
-
 - Foundations of LLMs
 - Tech stack for building LLM applications
 - Sample applications domains including code generation, data science, computer security, etc.
-- Autonomous agents
+- Autonomous agents; personalized virtual assistants
 - Trustworthy LLM, including trustworthiness evaluation & benchmarks, privacy issues in LLM, attacks on LLMs such as prompt injection
-- Decentralized ML including decentralized training, federated learning, open source models, edge inference
-- Decentralized decision making and decentralized society
+- Open source & decentralization of LLM stack, including decentralized training/inference, federated learning, open source models, open source data, edge inference
+- Decentralized decision making and democratized AI governance
 
 ## Syllabus (subject to change)
 
