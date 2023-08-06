@@ -13,9 +13,9 @@ redirect_from:
 ***If you are not able to enroll in the class, please fill out the <a href="https://forms.gle/i7d4rryctc3JN4cC9">signup form</a> and we will get back to you as soon as possible.***
 
 ## Course staff
-Co-instructors: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a> and <a href="https://people.eecs.berkeley.edu/~matei/">Prof. Matei Zaharia</a>
+Instructors: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a> and <a href="https://people.eecs.berkeley.edu/~matei/">Prof. Matei Zaharia</a>
 
-Guest co-instructor: <a href="https://suif.stanford.edu/~jwhaley/">John Whaley</a>
+Guest lecturer & project mentor: <a href="https://suif.stanford.edu/~jwhaley/">John Whaley</a>
 
 GSI: <a href="mailto:yu_gai@berkeley.edu">Yu Gai</a>
 
