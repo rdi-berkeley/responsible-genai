@@ -57,18 +57,19 @@ Students are strongly encouraged to have had experience and basic understanding 
 Graduate students should enroll in CS294-196. Undergraduate students should enroll in CS194-196.
 
 ***If you are not able to enroll in the class, please fill out the <a href="https://forms.gle/i7d4rryctc3JN4cC9">signup form</a> and we will get back to you as soon as possible.***
- 
+
 This is a variable-unit course.
-All enrolled students are expected to participate in lectures and complete a lab assignment.
-Students enrolling in more than one units are in addition expected to complete a project.
+All enrolled students are expected to participate in lectures.
+Students enrolling in one unit are expected to submit an article that summarizes either one of the lectures or the <a href="https://rdi.berkeley.edu/events/sbcberkeley">Future of Decentralization, AI, and Computing Summit</a>.
+Students enrolling in more than one units are expected to submit a lab assignment and a project instead of the article.
 The project of students enrolling in 2 units should have a written report, which can be a survey in a certain area related to LLMs.
 The project of students enrolling in 3 units should also have an implementation (coding) component that programmatically interacts with LLMs, and the project of students enrolling in 4 units should have a very significant implementation component with the potential for either real world impacts or intellectural contributions.
 The grade breakdowns for students enrolled in different units are the following:
 
 |                              | 1 unit | 2 units | 3/4 units |
 |------------------------------|--------|---------|-----------|
-| Participation                | 80%    | 20%     | 10%       |
-| Lab                          | 20%    | 20%     | 10%       |
+| Participation and blog       | 100%   | 20%     | 10%       |
+| Lab                          |        | 20%     | 10%       |
 | Project                      |        |         |           |
 | &nbsp;&nbsp;*Proposal*       |        | 10%     | 10%       |
 | &nbsp;&nbsp;*Milestone*      |        | 10%     | 10%       |
