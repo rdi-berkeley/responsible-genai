@@ -68,7 +68,8 @@ The grade breakdowns for students enrolled in different units are the following:
 
 |                              | 1 unit | 2 units | 3/4 units |
 |------------------------------|--------|---------|-----------|
-| Participation and blog       | 100%   | 20%     | 10%       |
+| Participation                | 50%    | 20%     | 10%       |
+| Article                      | 50%    |         |           |
 | Lab                          |        | 20%     | 10%       |
 | Project                      |        |         |           |
 | &nbsp;&nbsp;*Proposal*       |        | 10%     | 10%       |
