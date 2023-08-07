@@ -88,7 +88,6 @@ The grade breakdowns for students enrolled in different units are the following:
 | Project presentation    | Oct 31   | Nov 28 |
 | Project final report    | Oct 31   | Dec 12 |
 
-
 ## Logistics
 Lecture: 4-6pm PT Tuesday in <a href="https://rtl.berkeley.edu/classroom-database/physics-0001">Physics Building 1</a>. (Click <a href="https://www.reddit.com/r/berkeley/comments/p8w9ih/physics_building_1_vs_2_vs_3_vs_4/">here</a> if you cannot find the classroom)
 
