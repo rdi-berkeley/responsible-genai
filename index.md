@@ -45,7 +45,7 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 | Oct 31 | Decentralized Training and Inference, Open-Source Models                              |
 | Nov 7  | Decentralized Decision Making                                                         |
 | Nov 14 | Ethics and Fairness, Safety, Alignment                                                |
-| Nov 21 | Edge compute; Federated learning                                                      |
+| Nov 21 | Edge compute; Federated learning; Open source data                                    |
 | Nov 28 | Project Demos                                                                         |
 
 <!-- ## Meet the Speakers
