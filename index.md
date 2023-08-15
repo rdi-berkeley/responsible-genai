@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- # CS294/194-196:  Special Topics on Science and Technology of Decentralization and Decentralized Intelligence -->
 
-- ***Students interested in the course should first try enrolling in the course in CalCentral. The class number for CS194-196 is 32397. The class number for CS294-196 is 32392. Please join the waitlist if the class is full. Please fill in the signup form if and only if you can neither enroll in the class nor join the waitlist, and we will try to get back to you as soon as we can.***
+- ***Students interested in the course should first try enrolling in the course in CalCentral. The class number for CS194-196 is 32397. The class number for CS294-196 is 32392. Please join the waitlist if the class is full. Please fill in the <a href="https://forms.gle/i7d4rryctc3JN4cC9">signup form</a> if and only if you can neither enroll in the class nor join the waitlist, and we will try to get back to you as soon as we can.***
 - ***For general course content related questions, please join our [edstem](https://edstem.org/us/courses/41945/discussion/).***
 - ***<span style="color:red">Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</span>***
 
