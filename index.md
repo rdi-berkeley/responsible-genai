@@ -10,7 +10,9 @@ redirect_from:
 
 <!-- # CS294/194-196:  Special Topics on Science and Technology of Decentralization and Decentralized Intelligence -->
 
-***If you are not able to enroll in the class, please fill out the <a href="https://forms.gle/i7d4rryctc3JN4cC9">signup form</a> and we will get back to you as soon as possible.***
+- ***If you are not able to enroll in the class, please fill out the <a href="https://forms.gle/i7d4rryctc3JN4cC9">signup form</a> and we will get back to you as soon as possible.***
+- ***For general course content related questions, please join our [edstem](https://edstem.org/us/courses/41945/discussion/).***
+- ***<span style="color:red">Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</span>***
 
 ## Course staff
 Instructors: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a> and <a href="https://people.eecs.berkeley.edu/~matei/">Prof. Matei Zaharia</a>
