@@ -44,8 +44,8 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 | Oct 3  | Application Domains I: Software Engineering/Code Generation, Data Science             |
 | Oct 10 | Application Domains II: Security, Education                                           |
 | Oct 17 | Agents: RPA, Virtual Assistants                                                       |
-| Oct 24 | Trustworthiness: Privacy, Hallucinations, Adversarial Attacks                         |
-| Oct 31 | Decentralized Training and Inference, Open-Source Models                              |
+| Oct 24 | Decentralized Training and Inference, Open-Source Models                              |
+| Oct 31 | Trustworthiness: Privacy, Hallucinations, Adversarial Attacks                         |
 | Nov 7  | Decentralized Decision Making                                                         |
 | Nov 14 | Ethics and Fairness, Safety, Alignment                                                |
 | Nov 21 | Edge compute; Federated learning; Open source data                                    |
