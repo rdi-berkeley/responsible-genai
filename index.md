@@ -14,12 +14,14 @@ redirect_from:
 - ***For general course content related questions, please join our [edstem](https://edstem.org/us/courses/41945/discussion/).***
 - ***<span style="color:red">Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</span>***
 
-## Course staff
+## Course Staff
 Instructors: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a> and <a href="https://people.eecs.berkeley.edu/~matei/">Prof. Matei Zaharia</a>
 
 Guest lecturer & project mentor: <a href="https://suif.stanford.edu/~jwhaley/">John Whaley</a>
 
 GSI: <a href="mailto:yu_gai@berkeley.edu">Yu Gai</a>
+
+Reader: Shiladitya Dutta and Bill Zheng
 
 ## Course Description
 Generative AI and foundational models including ChatGPT have ushered the world into a new era with rich new capabilities for wide-ranging application domains. With these new capabilities also comes unprecedented challenges such as privacy, safety, ethics, alignment, and decentralization. In this class, we will introduce foundations of Large Language Models (LLMs), discuss the infrastructure, tooling, and best practices for building and running applications with LLMs, and explore the risks and challenges with these technologies and how we can build towards a responsible and democratized and decentralized future with AI. In particular, this class will cover a wide-ranging topics including:
@@ -55,14 +57,14 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 TBA
  -->
 
-## Enrollment and grading
+## Enrollment and Grading
 Students are strongly encouraged to have had experience and basic understanding of Machine Learning and Deep Learning before taking this class, e.g., have taken courses such as CS182, CS188, and CS189.
 Graduate students should enroll in CS294-196. Undergraduate students should enroll in CS194-196.
 
 ***If you are not able to enroll in the class, please fill out the <a href="https://forms.gle/i7d4rryctc3JN4cC9">signup form</a> and we will get back to you as soon as possible.***
 
 This is a variable-unit course.
-All enrolled students are expected to participate in lectures.
+All enrolled students are expected to participate in lectures in person.
 Students enrolling in one unit are expected to submit an article that summarizes either one of the lectures or the <a href="https://rdi.berkeley.edu/events/sbcberkeley">Future of Decentralization, AI, and Computing Summit</a>.
 Students enrolling in more than one units are expected to submit a lab assignment and a project instead of the article.
 The project of students enrolling in 2 units should have a written report, which can be a survey in a certain area related to LLMs.
@@ -81,7 +83,7 @@ The grade breakdowns for students enrolled in different units are the following:
 | &nbsp;&nbsp;*Report*         |        | 15%     | 15%       |
 | &nbsp;&nbsp;*Implementation* |        |         | 20%       |
 
-## Lab and project timeline
+## Lab and Project Timeline
 
 |                         | Released | Due    |
 |-------------------------|----------|--------|
