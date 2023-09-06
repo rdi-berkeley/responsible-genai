@@ -39,7 +39,7 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 |--------|---------------------------------------------------------------------------------------|
 | Aug 27 | Join <a href="https://rdi.berkeley.edu/events/decentralizationaisummit">The Future of Decentralization, AI, and Computing Summit</a>! |
 | Aug 29 | No class                                                                              |
-| Sep 5  | Intro & Foundations of LLM                                                            |
+| Sep 5  | Intro (<a href="assets/intro-cs294-196-f23.pptx.pdf">slides</a>) & Foundations of LLM (<a href="assets/CS294-Lecture-1.pdf">slides</a>) |
 | Sep 12 | Infrastructure Layer I: Training and Inference, Performance Optimization, Scalability |
 | Sep 19 | Infrastructure Layer II: Retrieval, Vector Databases, Search                          |
 | Sep 26 | App Development Layer: Prompt Engineering, Chains, Tools                              |
