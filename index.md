@@ -103,4 +103,4 @@ Lecture: 4-6pm PT Tuesday in <a href="https://rtl.berkeley.edu/classroom-databas
 - <b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b>
 
 ## Office Hours
-TBA
+Yu Gai: 2:45-3:45pm PT Tuesday. Location to be announced on edstem.
