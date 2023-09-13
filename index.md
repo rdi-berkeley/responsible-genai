@@ -39,19 +39,19 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 |--------|---------------------------------------------------------------------------------------|
 | Aug 27 | Join <a href="https://rdi.berkeley.edu/events/decentralizationaisummit">The Future of Decentralization, AI, and Computing Summit</a>! |
 | Aug 29 | No class                                                                              |
-| Sep 5  | Intro (<a href="assets/intro-cs294-196-f23.pptx.pdf">slides</a>) & Foundations of LLM (<a href="assets/CS294-Lecture-1.pdf">slides</a>) (Guest speaker: <a href="https://www.ericswallace.com">Eric Wallace</a>)|
-| Sep 12 | Infrastructure Layer I: Training and Inference, Performance Optimization, Scalability |
-| Sep 19 | Infrastructure Layer II: Retrieval, Vector Databases, Search                          |
-| Sep 26 | App Development Layer: Prompt Engineering, Chains, Tools                              |
-| Oct 3  | Application Domains I: Software Engineering/Code Generation, Data Science             |
-| Oct 10 | Application Domains II: Security, Education                                           |
-| Oct 17 | Agents: RPA, Virtual Assistants                                                       |
-| Oct 24 | Decentralized Training and Inference, Open-Source Models                              |
-| Oct 31 | Trustworthiness: Privacy, Hallucinations, Adversarial Attacks                         |
-| Nov 7  | Decentralized Decision Making                                                         |
-| Nov 14 | Ethics and Fairness, Safety, Alignment                                                |
-| Nov 21 | Edge compute; Federated learning; Open source data                                    |
-| Nov 28 | Project Demos                                                                         |
+| Sep 5  | <strong>Intro</strong> (<a href="assets/intro-cs294-196-f23.pptx.pdf">slides</a>) & <strong>Foundations of LLM</strong> (<a href="assets/CS294-Lecture-1.pdf">slides</a>) <br> Guest speaker: Eric Wallace, UC Berkeley|
+| Sep 12 | <strong>Infrastructure Layer I: Training and Inference, Performance Optimization, Scalability</strong> (<a href="assets/CS294-Lecture-2.pdf">slides</a>) <br> Guest speaker: Jonathan Frankle, MosaicML |
+| Sep 19 | <strong>Infrastructure Layer II: Retrieval, Vector Databases, Search</strong> <br> Guest speaker: Jerry Liu, LlamaIndex |
+| Sep 26 | <strong>App Development Layer: Prompt Engineering, Chains, Tools</strong> |
+| Oct 3  | <strong>Application Domains I: Software Engineering/Code Generation, Data Science</strong> |
+| Oct 10 | <strong>Application Domains II: Security, Education</strong> |
+| Oct 17 | <strong>Agents: RPA, Virtual Assistants</strong> |
+| Oct 24 | <strong>Decentralized Training and Inference, Open-Source Models</strong> |
+| Oct 31 | <strong>Trustworthiness: Privacy, Hallucinations, Adversarial Attacks</strong> |
+| Nov 7  | <strong>Decentralized Decision Making</strong> |
+| Nov 14 | <strong>Ethics and Fairness, Safety, Alignment</strong> |
+| Nov 21 | <strong>Edge compute; Federated learning; Open source data</strong> |
+| Nov 28 | <strong>Project Demos</strong> |
 
 <!-- ## Meet the Speakers
 TBA
