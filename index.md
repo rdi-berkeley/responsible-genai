@@ -46,7 +46,7 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 | Oct 3  | <strong>Application Domains I: Software Engineering/Code Generation, Data Science</strong> |
 | Oct 10 | <strong>Application Domains II: Security, Education</strong> |
 | Oct 17 | <strong>Agents: RPA, Virtual Assistants</strong> |
-| Oct 24 | <strong>Decentralized Training and Inference, Open-Source Models</strong> |
+| Oct 24 | <strong>Decentralized Training and Inference, Open-Source Models</strong> <br> Guest speaker: Ce Zhang, Together |
 | Oct 31 | <strong>Trustworthiness: Privacy, Hallucinations, Adversarial Attacks</strong> |
 | Nov 7  | <strong>Decentralized Decision Making</strong> |
 | Nov 14 | <strong>Ethics and Fairness, Safety, Alignment</strong> |
