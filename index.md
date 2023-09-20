@@ -47,10 +47,10 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 | Oct 10 | <strong>Application Domains II: Security, Education</strong> |
 | Oct 17 | <strong>Agents: RPA, Virtual Assistants</strong> |
 | Oct 24 | <strong>Decentralized Training and Inference, Open-Source Models</strong> <br> Guest speaker: Ce Zhang, Together |
-| Oct 31 | <strong>Trustworthiness: Privacy, Hallucinations, Adversarial Attacks</strong> <br> Nicholas Carlini, Google DeepMind |
+| Oct 31 | <strong>Trustworthiness: Privacy, Hallucinations, Adversarial Attacks</strong> <br> Guest speaker: Nicholas Carlini, Google DeepMind |
 | Nov 7  | <strong>Decentralized Decision Making</strong> |
 | Nov 14 | <strong>Ethics and Fairness, Safety, Alignment</strong> |
-| Nov 21 | <strong>Edge compute; Federated learning; Open source data</strong> <br> Tianqi Chen, CMU |
+| Nov 21 | <strong>Edge compute; Federated learning; Open source data</strong> <br> Guest speaker: Tianqi Chen, CMU |
 | Nov 28 | <strong>Project Demos</strong> |
 
 <!-- ## Meet the Speakers
