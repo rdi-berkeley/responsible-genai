@@ -19,7 +19,7 @@ Instructors: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn So
 
 Guest lecturer & project mentor: <a href="https://suif.stanford.edu/~jwhaley/">John Whaley</a>
 
-GSI: <a href="mailto:yu_gai@berkeley.edu">Yu Gai</a>
+GSI: Yu Gai
 
 Reader: Shiladitya Dutta and Bill Zheng
 
