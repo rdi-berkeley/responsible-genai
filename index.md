@@ -15,7 +15,24 @@ redirect_from:
 - ***<span style="color:red">Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</span>***
 
 ## Course Staff
-Instructors: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a> and <a href="https://people.eecs.berkeley.edu/~matei/">Prof. Matei Zaharia</a>
+<!-- Instructors: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a> and <a href="https://people.eecs.berkeley.edu/~matei/">Prof. Matei Zaharia</a> -->
+
+<table>
+<tbody>
+<tr>
+<td><img src="assets/dawn1.jpg" height=250/></td>
+<td><img src="assets/matei.jpg" height=250/></td>
+</tr>
+<tr>
+<td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a></td>
+<td><a href="https://people.eecs.berkeley.edu/~matei/">Prof. Matei Zaharia</a></td>
+<tr>
+<td>UC Berkeley</td>
+<td>UC Berkeley</td>
+</tr>
+</tr>
+</tbody>
+</table>
 
 Guest lecturer & project mentor: <a href="https://suif.stanford.edu/~jwhaley/">John Whaley</a>
 
