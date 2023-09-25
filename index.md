@@ -59,7 +59,7 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 | Sep 5  | <strong>Intro</strong> (<a href="assets/intro-cs294-196-f23.pptx.pdf">slides</a>) & <strong>Foundations of LLM</strong> (<a href="assets/CS294-Lecture-1.pdf">slides</a>) <br> Guest speaker: Eric Wallace, UC Berkeley|
 | Sep 12 | <strong>Infrastructure Layer I: Training and Inference, Performance Optimization, Scalability</strong> (<a href="assets/CS294-Lecture-2.pdf">slides</a>) <br> Guest speaker: Jonathan Frankle, MosaicML |
 | Sep 19 | <strong>Infrastructure Layer II: Retrieval, Vector Databases, Search</strong> (<a href="assets/CS294-Lecture-3.pdf">slides</a>) <br> Guest speaker: Jerry Liu, LlamaIndex (<a href="assets/CS294-Lecture-3_1.pdf">slides</a>) |
-| Sep 26 | <strong>App Development Layer: Prompt Engineering, Chains, Tools</strong> |
+| Sep 26 | <strong>App Development Layer: Prompt Engineering, Chains, Tools </strong> <br> Guest speaker: Omar Khattab, Stanford |
 | Oct 3  | <strong>Application Domains I: Software Engineering/Code Generation, Data Science</strong> |
 | Oct 10 | <strong>Application Domains II: Security, Education</strong> |
 | Oct 17 | <strong>Agents: RPA, Virtual Assistants</strong> |
