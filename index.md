@@ -15,11 +15,28 @@ redirect_from:
 - ***<span style="color:red">Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</span>***
 
 ## Course Staff
-Instructors: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a> and <a href="https://people.eecs.berkeley.edu/~matei/">Prof. Matei Zaharia</a>
+<!-- Instructors: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a> and <a href="https://people.eecs.berkeley.edu/~matei/">Prof. Matei Zaharia</a> -->
+
+<table>
+<tbody>
+<tr>
+<td><img src="assets/dawn1.jpg" height=250/></td>
+<td><img src="assets/matei.jpg" height=250/></td>
+</tr>
+<tr>
+<td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a></td>
+<td><a href="https://people.eecs.berkeley.edu/~matei/">Prof. Matei Zaharia</a></td>
+<tr>
+<td>UC Berkeley</td>
+<td>UC Berkeley</td>
+</tr>
+</tr>
+</tbody>
+</table>
 
 Guest lecturer & project mentor: <a href="https://suif.stanford.edu/~jwhaley/">John Whaley</a>
 
-GSI: <a href="mailto:yu_gai@berkeley.edu">Yu Gai</a>
+GSI: Yu Gai
 
 Reader: Shiladitya Dutta and Bill Zheng
 
@@ -47,10 +64,10 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 | Oct 10 | <strong>Application Domains II: Software Engineering/Code Generation, Data Science</strong> |
 | Oct 17 | <strong>Agents: RPA, Virtual Assistants</strong> |
 | Oct 24 | <strong>Decentralized Training and Inference, Open-Source Models</strong> <br> Guest speaker: Ce Zhang, Together |
-| Oct 31 | <strong>Trustworthiness: Privacy, Hallucinations, Adversarial Attacks</strong> <br> Nicholas Carlini, Google DeepMind |
+| Oct 31 | <strong>Trustworthiness: Privacy, Hallucinations, Adversarial Attacks</strong> <br> Guest speaker: Nicholas Carlini, Google DeepMind |
 | Nov 7  | <strong>Decentralized Decision Making</strong> |
 | Nov 14 | <strong>Ethics and Fairness, Safety, Alignment</strong> |
-| Nov 21 | <strong>Edge compute; Federated learning; Open source data</strong> <br> Tianqi Chen, CMU |
+| Nov 21 | <strong>Edge compute; Federated learning; Open source data</strong> <br> Guest speaker: Tianqi Chen, CMU |
 | Nov 28 | <strong>Project Demos</strong> |
 
 <!-- ## Meet the Speakers
