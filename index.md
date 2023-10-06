@@ -60,7 +60,7 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 | Sep 12 | <strong>Infrastructure Layer I: Training and Inference, Performance Optimization, Scalability</strong> (<a href="assets/CS294-Lecture-2.pdf">slides</a>) <br> Guest speaker: Jonathan Frankle, MosaicML |
 | Sep 19 | <strong>Infrastructure Layer II: Retrieval, Vector Databases, Search</strong> (<a href="assets/CS294-Lecture-3.pdf">slides</a>) <br> Guest speaker: Jerry Liu, LlamaIndex (<a href="assets/CS294-Lecture-3_1.pdf">slides</a>) |
 | Sep 26 | <strong>App Development Layer: Prompt Engineering, Chains, Tools</strong> (<a href="assets/CS294-Lecture-4.pdf">slides</a>) <br> Guest speaker: Omar Khattab, Stanford |
-| Oct 3  | <strong>Application Domains I: Security, Education</strong> <br> Guest speaker: Leo Meyerovich, Graphistry |
+| Oct 3  | <strong>Application Domains I: Security, Education</strong> (<a href="assets/CS294-Lecture-5.pdf">Slides</a>) <br> Guest speaker: Leo Meyerovich, Graphistry |
 | Oct 10 | <strong>Application Domains II: Software Engineering/Code Generation, Data Science</strong> <br> Guest speaker: Xinyun Chen, Google Brain |
 | Oct 17 | <strong>Trustworthiness: Privacy, Hallucinations, Adversarial Attacks</strong> <br> Guest speaker: Nicholas Carlini, Google DeepMind |
 | Oct 24 | <strong>Agents: RPA, Virtual Assistants</strong> <br> Karol Hausman, Google DeepMind & Stanford |
