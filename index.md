@@ -63,7 +63,7 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 | Oct 3  | <strong>Application Domains I: Security, Education</strong> (<a href="assets/CS294-Lecture-5.pdf">Slides</a>) <br> Guest speaker: Leo Meyerovich, Graphistry |
 | Oct 10 | <strong>Application Domains II: Software Engineering/Code Generation, Data Science</strong> (<a href="assets/LLM_codegen_lecture.pdf">slides</a>)<br> Guest speaker: Xinyun Chen, Google Brain |
 | Oct 17 | <strong>Trustworthiness: Privacy, Hallucinations, Adversarial Attacks</strong> (<a href="assets/berkeley_llm_security.pdf">slides</a>) <br> Guest speaker: Nicholas Carlini, Google DeepMind |
-| Oct 24 | <strong>Agents: RPA, Virtual Assistants</strong> <br> Karol Hausman, Google DeepMind & Stanford |
+| Oct 24 | <strong>Applying Lessons from AI to Robot Learning</strong> <br> Karol Hausman (Google DeepMind & Stanford) and Quan Vuong (Google DeepMind Robotics) |
 | Oct 31 | <strong>Decentralized Training and Inference, Open-Source Models</strong> <br> Guest speaker: Ce Zhang, Professor at University of Chicago |
 | Nov 7  | <strong>Decentralized Decision Making</strong> |
 | Nov 14 | <strong>Ethics and Fairness, Safety, Alignment</strong> |
