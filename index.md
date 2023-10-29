@@ -65,7 +65,7 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 | Oct 17 | <strong>Trustworthiness: Privacy, Hallucinations, Adversarial Attacks</strong> (<a href="assets/berkeley_llm_security.pdf">slides</a>) <br> Guest speaker: Nicholas Carlini, Google DeepMind |
 | Oct 24 | <strong>Applying Lessons from AI to Robot Learning</strong> <br> Karol Hausman (Google DeepMind & Stanford) and Quan Vuong (Google DeepMind Robotics) |
 | Oct 31 | <strong>Decentralized Training and Inference, Open-Source Models</strong> <br> Guest speaker: Ce Zhang, Professor at University of Chicago |
-| Nov 7  | <strong>Decentralized Decision Making</strong> |
+| Nov 7  | <strong>Proving humanness in the age of AI</strong> <br> Guest speaker: Alex Blania, Tools for Humanity |
 | Nov 14 | <strong>Ethics and Fairness, Safety, Alignment</strong> |
 | Nov 21 | <strong>Edge compute; Federated learning; Open source data</strong> <br> Guest speaker: Tianqi Chen, CMU |
 | Nov 28 | <strong>Project Demos</strong> |
