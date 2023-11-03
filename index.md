@@ -66,7 +66,7 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 | Oct 24 | <strong>Applying Lessons from AI to Robot Learning</strong> (<a href="assets/oct_24.pdf">slides<a>) <br> Karol Hausman (Google DeepMind & Stanford) and Quan Vuong (Google DeepMind Robotics) |
 | Oct 31 | <strong>Decentralized Training and Inference, Open-Source Models</strong> <br> Guest speaker: Ce Zhang, Professor at University of Chicago |
 | Nov 7  | <strong>Proving humanness in the age of AI</strong> <br> Guest speaker: Alex Blania, Tools for Humanity |
-| Nov 14 | <strong>Ethics and Fairness, Safety, Alignment</strong> |
+| Nov 14 | <strong>Ethics and Fairness, Safety, Alignment</strong> <br> Guest speaker: Jacob Steinhardt, UC Berkeley |
 | Nov 21 | <strong>Edge compute; Federated learning; Open source data</strong> <br> Guest speaker: Tianqi Chen, CMU |
 | Nov 28 | <strong>Project Demos</strong> |
 
