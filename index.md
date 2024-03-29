@@ -24,8 +24,8 @@ redirect_from:
 <td><img src="assets/matei.jpg" height=250/></td>
 </tr>
 <tr>
-<td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a></td>
-<td><a href="https://people.eecs.berkeley.edu/~matei/">Prof. Matei Zaharia</a></td>
+<td><a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html">Prof. Dawn Song</a></td>
+<td><a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/matei.html">Prof. Matei Zaharia</a></td>
 <tr>
 <td>UC Berkeley</td>
 <td>UC Berkeley</td>
@@ -112,7 +112,7 @@ The grade breakdowns for students enrolled in different units are the following:
 | Project final report    | Oct 31   | Dec 12 |
 
 ## Logistics
-Lecture: 4-6pm PT Tuesday in <a href="https://rtl.berkeley.edu/classroom-database/physics-0001">Physics Building 1</a>. (Click <a href="https://www.reddit.com/r/berkeley/comments/p8w9ih/physics_building_1_vs_2_vs_3_vs_4/">here</a> if you cannot find the classroom)
+Lecture: 4-6pm PT Tuesday in <a href="https://rtl.berkeley.edu/classroom-database/physics-0001">Physics Building 1</a>.
 
 <!-- To get future announcements about the course and guest lectures, please join <a href="https://groups.google.com/g/berkeley-rdi">the mailing list</a>. -->
 
