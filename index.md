@@ -88,7 +88,7 @@ The project of students enrolling in 2 units should have a written report, which
 The project of students enrolling in 3 units should also have an implementation (coding) component that programmatically interacts with LLMs, and the project of students enrolling in 4 units should have a very significant implementation component with the potential for either real world impacts or intellectual contributions.
 The grade breakdowns for students enrolled in different units are the following:
 
-|                              | 1 unit | 2 units | 3/4 units |
+|        Grading Items         | 1 unit | 2 units | 3/4 units |
 |------------------------------|--------|---------|-----------|
 | Participation                | 50%    | 20%     | 10%       |
 | Article                      | 50%    |         |           |
@@ -102,7 +102,7 @@ The grade breakdowns for students enrolled in different units are the following:
 
 ## Lab and Project Timeline
 
-|                         | Released | Due    |
+|         Events          | Released | Due    |
 |-------------------------|----------|--------|
 | Project group formation | Sep 5    | Sep 19 |
 | Project proposal        | Sep 12   | Oct 3  |
