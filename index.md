@@ -82,7 +82,7 @@ Graduate students should enroll in CS294-196. Undergraduate students should enro
 
 This is a variable-unit course.
 All enrolled students are expected to participate in lectures in person.
-Students enrolling in one unit are expected to submit an article that summarizes either one of the lectures or the <a href="https://rdi.berkeley.edu/events/sbcberkeley">Future of Decentralization, AI, and Computing Summit</a>.
+Students enrolling in one unit are expected to submit an article that summarizes either one of the lectures or the <<a href="https://rdi.berkeley.edu/events/sbcberkeley" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Future of Decentralization, AI, and Computing Summit</a>.
 Students enrolling in more than one units are expected to submit a lab assignment and a project instead of the article.
 The project of students enrolling in 2 units should have a written report, which can be a survey in a certain area related to LLMs.
 The project of students enrolling in 3 units should also have an implementation (coding) component that programmatically interacts with LLMs, and the project of students enrolling in 4 units should have a very significant implementation component with the potential for either real world impacts or intellectual contributions.
