@@ -34,7 +34,7 @@ redirect_from:
 </tbody>
 </table>
 
-Guest lecturer & project mentor: <a href="https://suif.stanford.edu/~jwhaley/">John Whaley</a>
+Guest lecturer & project mentor: <a href="https://suif.stanford.edu/~jwhaley/" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">John Whaley</a>
 
 GSI: Yu Gai
 
@@ -54,7 +54,7 @@ Generative AI and foundational models including ChatGPT have ushered the world i
 
 | Date   | Topic                                                                                 |
 |--------|---------------------------------------------------------------------------------------|
-| Aug 27 | Join <a href="https://rdi.berkeley.edu/events/decentralizationaisummit">The Future of Decentralization, AI, and Computing Summit</a>! |
+| Aug 27 | Join <a href="https://rdi.berkeley.edu/events/sbcberkeley" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Future of Decentralization, AI, and Computing Summit</a>! |
 | Aug 29 | No class                                                                              |
 | Sep 5  | <strong>Intro</strong> (<a href="assets/intro-cs294-196-f23.pptx.pdf">slides</a>) & <strong>Foundations of LLM</strong> (<a href="assets/CS294-Lecture-1.pdf">slides</a>) <br> Guest speaker: Eric Wallace, UC Berkeley|
 | Sep 12 | <strong>Infrastructure Layer I: Training and Inference, Performance Optimization, Scalability</strong> (<a href="assets/CS294-Lecture-2.pdf">slides</a>) <br> Guest speaker: Jonathan Frankle, MosaicML |
@@ -112,7 +112,7 @@ The grade breakdowns for students enrolled in different units are the following:
 | Project final report    | Oct 31   | Dec 12 |
 
 ## Logistics
-Lecture: 4-6pm PT Tuesday in <a href="https://rtl.berkeley.edu/classroom-database/physics-0001">Physics Building 1</a>.
+Lecture: 4-6pm PT Tuesday in <a href="https://rtl.berkeley.edu/classroom-database/physics-0001" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Physics Building 1</a>.
 
 <!-- To get future announcements about the course and guest lectures, please join <a href="https://groups.google.com/g/berkeley-rdi">the mailing list</a>. -->
 
