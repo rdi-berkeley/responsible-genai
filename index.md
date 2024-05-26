@@ -19,8 +19,8 @@ redirect_from:
 <table>
 <tbody>
 <tr>
-<td><img src="assets/dawn1.jpg" height=250/></td>
-<td><img src="assets/matei.jpg" height=250/></td>
+<td><img alt="Prof. Dawn Song Image" src="assets/dawn1.jpg" height=250/></td>
+<td><img alt="Prof. Matei Zaharia Image" src="assets/matei.jpg" height=250/></td>
 </tr>
 <tr>
 <td><a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html">Prof. Dawn Song</a></td>
