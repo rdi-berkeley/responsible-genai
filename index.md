@@ -113,6 +113,8 @@ The grade breakdowns for students enrolled in different units are the following:
 ## Logistics
 Lecture: 4-6pm PT Tuesday in <a href="https://rtl.berkeley.edu/classroom-database/physics-0001" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Physics Building 1</a>.
 
+<script async src=”https://siteimproveanalytics.com/js/siteanalyze_6294756.js”></script>
+
 <!-- To get future announcements about the course and guest lectures, please join <a href="https://groups.google.com/g/berkeley-rdi">the mailing list</a>. -->
 
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/41945/discussion/).
